@@ -1,0 +1,38 @@
+# Contracts
+
+## Why It Belongs In 1L
+
+Contracts teaches enforceable exchange. It is where you learn offer, assent, consideration, remedies, and how private ordering becomes legal obligation.
+
+## Master These First
+
+- offer and acceptance
+- objective assent
+- consideration
+- promissory estoppel
+- breach
+- expectation, reliance, and restitution
+- conditions and excuses at a high level
+
+## Start Here
+
+- Harvard H2O Contracts casebook: <https://opencasebook.org/casebooks/11568-contracts/>
+- Re-read the Restatement and statutory excerpts built into the casebook
+- Save deeper UCC detail for the later `2L` commercial-law pass
+
+## Landmark Cases
+
+- `Hamer v. Sidway`
+- `Lucy v. Zehmer`
+- `Hawkins v. McGee`
+
+## Best Supplement If You Need One
+
+- `Examples & Explanations for Contracts`
+- `A Short & Happy Guide to Contracts`
+
+## Deliverables
+
+- one formation flowchart
+- one remedies chart
+- one short issue-spotter answer on enforceability

@@ -1,0 +1,97 @@
+# Traditional 1L-2L-3L Self-Study Curriculum
+
+This folder is a self-directed, open-source-heavy law school curriculum organized around the traditional `1L -> 2L -> 3L` arc.
+
+The default version is not a strict calendar. It is a content-first map of what to study, in what general order, and with what materials.
+
+The default material stack is also `free-first`: open casebooks, official rules, public legal research tools, and free citation resources before paid supplements.
+
+School-produced materials are now filtered through a `top-10-school-first` rule, with Ivy League schools inside that current top band receiving first priority and `Stanford` added whenever its public research guides are the strongest fit. Official primary-law sources still take precedence whenever the real task is reading the law itself.
+
+If someone wants to compress the journey into a fixed schedule, that option still exists in the `99-optional-speedrun` folder. But the main curriculum now prioritizes doctrinal coverage over the clock.
+
+## What This Is For
+
+- building a serious legal foundation without buying a wall of casebooks
+- learning how lawyers read cases, statutes, and rules
+- following the logic of the traditional JD progression
+- ending with practice skills, professional formation, and a bar-bridge
+
+## Folder Map
+
+- `00-start-here`
+- `01-1l-foundation-year`
+- `02-2l-doctrinal-depth-and-codes`
+- `03-3l-practice-synthesis-and-launch`
+- `99-optional-speedrun`
+- `templates`
+
+## Core Path
+
+### 1L foundation year
+
+Start with:
+
+- civil procedure
+- torts
+- contracts
+- property
+- criminal law
+- constitutional law
+- legal research and writing
+
+### 2L doctrinal depth and codes
+
+Move into:
+
+- evidence
+- criminal procedure
+- business associations
+- commercial law and UCC
+- administrative law
+- professional responsibility
+- electives, journal, and summer-position strategy
+
+### 3L practice, synthesis, and launch
+
+Finish with:
+
+- clinics, externships, and practice systems
+- trial advocacy and motion practice
+- advanced writing and capstone work
+- bar bridge and career launch
+
+## Optional Speedrun
+
+The accelerated version lives in [99-optional-speedrun/README.md](./99-optional-speedrun/README.md).
+
+Use that only if you already understand the goal of each subject and want a compression framework. The primary curriculum should come first.
+
+## Current Bar Note
+
+As of `June 2, 2026`:
+
+- the `NextGen UBE` begins in `July 2026` in participating jurisdictions
+- some jurisdictions are still using or transitioning from the legacy exam
+- state-specific rules can change, so verify your target jurisdiction directly before relying on any bar-specific assumptions
+
+## How To Start
+
+1. Read [00-start-here/01-how-to-use-this-plan.md](./00-start-here/01-how-to-use-this-plan.md).
+2. Set up your materials from [00-start-here/02-books-and-supplies.md](./00-start-here/02-books-and-supplies.md).
+3. Bookmark [00-start-here/03-open-resource-library.md](./00-start-here/03-open-resource-library.md).
+4. Review the sourcing rule in [00-start-here/05-top-10-school-priority-basis.md](./00-start-here/05-top-10-school-priority-basis.md).
+5. Use the school-by-school map in [00-start-here/06-top-tier-school-resource-directory.md](./00-start-here/06-top-tier-school-resource-directory.md) when you want stronger elite-school support.
+6. Use the reading system in [00-start-here/04-study-system-and-deliverables.md](./00-start-here/04-study-system-and-deliverables.md).
+7. Work from [01-1l-foundation-year/README.md](./01-1l-foundation-year/README.md) and [01-1l-foundation-year/01-reading-sequence-and-free-sources.md](./01-1l-foundation-year/01-reading-sequence-and-free-sources.md) forward.
+8. Move to [02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md](./02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md) after your 1L pass is genuinely solid.
+9. Buy a book only if the free pass leaves a subject genuinely sticky.
+
+## End State
+
+If you work through this seriously, you should finish with:
+
+- a working outline for major JD subjects
+- a usable method for reading and synthesizing law
+- a doctrinal base closer to a real law-school sequence than a random reading list
+- a clear on-ramp into practice skills and bar-focused study
