@@ -2,11 +2,13 @@
 
 This folder is a self-directed, open-source-heavy law school curriculum organized around the traditional `1L -> 2L -> 3L` arc.
 
+Where this repo relies on school-produced guidance, the information is pulled from Ivy League schools plus a small set of other best-of-the-best law schools with especially strong public materials.
+
 The default version is not a strict calendar. It is a content-first map of what to study, in what general order, and with what materials.
 
 The default material stack is also `free-first`: open casebooks, official rules, public legal research tools, and free citation resources before paid supplements.
 
-School-produced materials are now filtered through a `top-10-school-first` rule, with Ivy League schools inside that current top band receiving first priority and `Stanford` added whenever its public research guides are the strongest fit. Official primary-law sources still take precedence whenever the real task is reading the law itself.
+School-produced materials are now filtered through a `top-10-school-first` rule, with Ivy League schools inside that current top band receiving first priority and `Stanford` or other peer top schools added whenever their public research guides are the strongest fit. Official primary-law sources still take precedence whenever the real task is reading the law itself.
 
 If someone wants to compress the journey into a fixed schedule, that option still exists in the `99-optional-speedrun` folder. But the main curriculum now prioritizes doctrinal coverage over the clock.
 
