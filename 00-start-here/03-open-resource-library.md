@@ -2,29 +2,23 @@
 
 Verified and reprioritized on `June 2, 2026`.
 
-This library is `free-first`, `reading-first`, and `top-10-school-first`.
+This library is `T10/Ivy-first`, `primary-law-first`, and `reading-first`.
 
-For school-produced materials, this curriculum now prioritizes public resources from the latest publicly available `top-10` law-school band, with Ivy League schools inside that band taking first priority. Official law sources remain the default whenever the subject turns into actual constitutional text, statutes, regulations, or court rules.
+For school-produced materials, this curriculum prioritizes public resources from the strongest `T10/Ivy` law-school institutions first. The goal is not just to collect free links. It is to build a study stack around the clearest public teaching, research, writing, and doctrinal guidance the top of the legal academy makes available. Official law sources remain the default whenever the subject turns into actual constitutional text, statutes, regulations, or court rules.
 
 See [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md) for the sourcing rule.
 See [06-top-tier-school-resource-directory.md](./06-top-tier-school-resource-directory.md) for the deeper school-by-school map.
 
 ## School-Produced Source Priority
 
-- `Ivy first inside the current top-10 band`: Yale, Penn, Harvard, Columbia
-- `Then the rest of the current top-10 band`, with `Stanford` first in line whenever you need stronger public research-guide infrastructure: Stanford, Chicago, Virginia, Duke, NYU, Northwestern, Michigan
-- `If no strong school-produced free source exists`: use the official source of law or a strong public nonprofit source
+- `T10/Ivy first`: start with Yale, Harvard, Penn, and Columbia, then use the strongest-fit materials from the rest of the top institutional band
+- `Stanford first among non-Ivy peers`: use Stanford before other peer schools when you need especially strong public research infrastructure for cases, dockets, Supreme Court materials, legislative history, or transactional research
+- `Then the rest of the peer T10 group`: Chicago, Virginia, Duke, NYU, Northwestern, Michigan
+- `If no strong school-produced source exists`: default to the official source of law or a strong public nonprofit source
 
-## Best General Hubs
+## Best Institutional Hubs
 
-### Harvard
-
-- H2O main site: <https://opencasebook.org/>
-- H2O featured casebooks: <https://opencasebook.org/featured/>
-- H2O help and search guidance: <https://about.opencasebook.org/>
-- Harvard Legal Research Strategy: <https://guides.library.harvard.edu/law/researchstrategy>
-- Harvard statutes guide: <https://guides.library.harvard.edu/law/statutes>
-- Harvard online legal history guide: <https://guides.library.harvard.edu/onlinelegalhistory>
+Start here when you want the strongest school-built research and writing infrastructure, not just an open textbook.
 
 ### Yale
 
@@ -36,6 +30,12 @@ See [06-top-tier-school-resource-directory.md](./06-top-tier-school-resource-dir
 - Yale Docket Research: <https://library.law.yale.edu/research-guides/docket-research>
 - Yale court-records, briefs, and oral-arguments guide: <https://library.law.yale.edu/research-guides/locating-court-records-briefs-and-oral-arguments>
 - Yale SAW research guide: <https://library.law.yale.edu/research-guides/guide-substantial-and-supervised-analytical-writing-saw-research>
+
+### Harvard
+
+- Harvard Legal Research Strategy: <https://guides.library.harvard.edu/law/researchstrategy>
+- Harvard statutes guide: <https://guides.library.harvard.edu/law/statutes>
+- Harvard online legal history guide: <https://guides.library.harvard.edu/onlinelegalhistory>
 
 ### Stanford
 
@@ -80,6 +80,14 @@ See [06-top-tier-school-resource-directory.md](./06-top-tier-school-resource-dir
 - NYU Writing a Student Note: <https://www.law.nyu.edu/students/studentwriting>
 - NYU resources on writing PDF: <https://www.law.nyu.edu/sites/default/files/Resources%20on%20writing%20-%20accessible.pdf>
 - NYU journals and publications: <https://www.law.nyu.edu/journals>
+
+## Open Casebook Platform
+
+Use this when you need a substantial free casebook after orienting yourself with a top-school guide or the primary law itself.
+
+- Harvard H2O main site: <https://opencasebook.org/>
+- H2O featured casebooks: <https://opencasebook.org/featured/>
+- H2O help and search guidance: <https://about.opencasebook.org/>
 
 ## 1L Reading Library
 
