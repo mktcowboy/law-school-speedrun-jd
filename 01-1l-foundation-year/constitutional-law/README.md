@@ -27,6 +27,13 @@ Constitutional law gives structure to public power and rights analysis. Some sch
 - `Brown v. Board of Education`
 - `Tinker v. Des Moines`
 
+## Common Exam Traps
+
+- clear the threshold (standing, state action) before reaching the merits
+- pick the correct tier of scrutiny and state who bears the burden at that tier
+- distinguish facial from as-applied challenges, and content-based from content-neutral speech regulation
+- do not blur Equal Protection, Due Process, and the Dormant Commerce Clause — each has its own framework
+
 ## Best Supplement If You Need One
 
 - a concise constitutional law supplement is enough on the first pass

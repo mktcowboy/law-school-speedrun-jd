@@ -28,6 +28,13 @@ Administrative law is easier once you already know procedure, constitutional str
 - `Chevron` as historical background
 - `Skidmore`
 
+## Common Exam Traps
+
+- do not cite `Chevron` as good law — after `Loper Bright` (2024), courts review statutory questions de novo, giving agency views `Skidmore` weight where persuasive
+- distinguish legislative rules (notice-and-comment) from interpretive rules and guidance
+- match the standard of review to the action: arbitrary-and-capricious, substantial evidence, or de novo
+- clear standing, ripeness, finality, and exhaustion before reaching reviewability
+
 ## Best Supplement If You Need One
 
 - only if administrative law becomes a core career subject

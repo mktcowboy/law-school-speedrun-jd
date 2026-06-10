@@ -89,6 +89,31 @@ Use this when you need a substantial free casebook after orienting yourself with
 - H2O featured casebooks: <https://opencasebook.org/featured/>
 - H2O help and search guidance: <https://about.opencasebook.org/>
 
+## Faculty-Taught Free Courses (T10/Ivy)
+
+These are full courses and lecture series produced by `T10/Ivy` faculty and released free. Use them as a signature elite voice on top of the casebooks, not as a replacement for primary reading.
+
+- Akhil Amar (Yale) "Amarica's Constitution" podcast: <https://amaricasconstitution.podbean.com/>
+- Akhil Amar (Yale) faculty site and videos: <https://akhilamar.com/>
+- Michael Sandel (Harvard) Justice — free course and videos: <https://justiceharvard.org/>
+- William Fisher (Harvard) CopyrightX lectures: <https://copyx.org/lectures/>
+- CopyrightX course home: <https://copyx.org/>
+
+## Open Primary-Law And Reference Backbone
+
+Nonprofit and public-service standards for reading the law itself and checking doctrine fast. These sit outside the top-10 teaching-materials rule by design; for primary law and tools, the best free host wins regardless of school rank. See [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md).
+
+- Cornell LII home: <https://www.law.cornell.edu/>
+- Cornell LII Wex legal dictionary and encyclopedia: <https://www.law.cornell.edu/wex>
+- Cornell LII U.S. Code: <https://www.law.cornell.edu/uscode/text>
+- Cornell LII U.S. Constitution: <https://www.law.cornell.edu/constitution>
+- Cornell LII Federal Rules collection: <https://www.law.cornell.edu/rules>
+- Cornell LII Federal Rules of Civil Procedure: <https://www.law.cornell.edu/rules/frcp>
+- Cornell LII Federal Rules of Evidence: <https://www.law.cornell.edu/rules/fre>
+- CALI lessons (school authorization code required): <https://www.cali.org/>
+- CALI eLangdell open casebooks: <https://www.cali.org/the-elangdell-bookstore>
+- National Constitution Center Interactive Constitution: <https://constitutioncenter.org/the-constitution/about-the-interactive-constitution>
+
 ## 1L Reading Library
 
 ### Civil Procedure
@@ -135,6 +160,9 @@ Use this when you need a substantial free casebook after orienting yourself with
 - Yale Constitution Day Resources: <https://library.law.yale.edu/research-guides/constitution-day-resources>
 - Columbia freedom-of-expression teaching portal: <https://teaching.globalfreedomofexpression.columbia.edu/>
 - Stanford Supreme Court Materials: <https://guides.law.stanford.edu/supremecourt>
+- National Constitution Center Interactive Constitution: <https://constitutioncenter.org/the-constitution/about-the-interactive-constitution>
+- Akhil Amar (Yale) "Amarica's Constitution" podcast: <https://amaricasconstitution.podbean.com/>
+- Cornell LII U.S. Constitution: <https://www.law.cornell.edu/constitution>
 - Oyez: <https://www.oyez.org/>
 
 ### Legal Research And Writing
@@ -237,6 +265,15 @@ Use this when you need a substantial free casebook after orienting yourself with
 - NCBE preparing for NextGen: <https://www.ncbex.org/exams/nextgen/preparing-nextgen-ube>
 - NCBE jurisdiction decisions: <https://www.ncbex.org/exams/nextgen-ube/scores-score-portability/nextgen-ube-decisions-jurisdiction>
 - NCBE legacy study aids: <https://www.ncbex.org/study-aids/legacy-exam>
+- NCBE NextGen sample questions: <https://www.ncbex.org/exams/nextgen/sample-questions>
+- NextGen Bar Exam updates and released materials: <https://nextgenbarexam.ncbex.org/>
+
+## Assessment And Practice
+
+Use these to build the timed-writing feedback loop described in [09-assessment-and-exam-archive-method.md](./09-assessment-and-exam-archive-method.md).
+
+- NCBE NextGen sample questions: <https://www.ncbex.org/exams/nextgen/sample-questions>
+- CALI lessons for guided, auto-scored practice by subject: <https://www.cali.org/>
 
 ## Practical Notes
 

@@ -27,6 +27,13 @@ Business associations is where organizational law, agency, governance, and fiduc
 - `Walkovszky v. Carlton`
 - `Smith v. Van Gorkom`
 
+## Common Exam Traps
+
+- keep the duty of care (business judgment rule, gross negligence) separate from the duty of loyalty (conflicts, entire fairness)
+- the business judgment rule does not apply where loyalty or good faith is genuinely at issue
+- distinguish direct from derivative claims and address demand futility
+- separate actual from apparent authority, and know the agency and partnership defaults
+
 ## Best Supplement If You Need One
 
 - buy one only if the entity and governance vocabulary is slowing you down

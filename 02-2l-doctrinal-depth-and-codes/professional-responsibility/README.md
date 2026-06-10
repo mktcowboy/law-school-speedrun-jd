@@ -28,6 +28,13 @@ Professional responsibility becomes more meaningful once you can picture real li
 - `Rule 3.3`
 - `Rule 4.1`
 
+## Common Exam Traps
+
+- keep the confidentiality duty (`1.6`, broad) distinct from the evidentiary attorney-client privilege (narrow)
+- conflicts are imputed across a firm (`1.10`) unless screening or informed consent cures them
+- candor to the tribunal (`3.3`) is not overridden by confidentiality for the duties it imposes
+- watch jurisdictional variation on tested points such as the `1.6` exceptions
+
 ## Best Supplement If You Need One
 
 - read the rules directly before buying anything

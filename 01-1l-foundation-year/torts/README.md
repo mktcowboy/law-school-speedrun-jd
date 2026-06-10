@@ -27,6 +27,13 @@ Torts is the cleanest entry into common-law reasoning. It teaches how courts rea
 - `Palsgraf`
 - `United States v. Carroll Towing Co.`
 
+## Common Exam Traps
+
+- do not skip `duty` and jump straight to breach
+- keep `actual cause` (but-for) separate from `proximate cause` (scope and foreseeability)
+- negligence per se requires the statute to protect this class of person against this type of harm
+- transferred intent and the intentional-tort privileges (consent, self-defense) are tested precisely, not loosely
+
 ## Best Supplement If You Need One
 
 - `A Short & Happy Guide to Torts`

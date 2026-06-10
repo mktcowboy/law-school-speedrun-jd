@@ -25,6 +25,13 @@ Criminal law gives you the basic architecture of liability in the public-law con
 - `Regina v. Cunningham`
 - `People v. Conley`
 
+## Common Exam Traps
+
+- identify the specific mental state required for each element (MPC: purpose, knowledge, recklessness, negligence)
+- keep the homicide ladder straight: premeditation, provocation and heat of passion, depraved heart, and the limits on felony murder
+- attempt, conspiracy, and accomplice liability are distinct doctrines — do not blur them
+- separate justification (self-defense) from excuse (insanity, duress) and track who bears the burden
+
 ## Best Supplement If You Need One
 
 - `Examples & Explanations for Criminal Law`

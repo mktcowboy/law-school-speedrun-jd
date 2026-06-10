@@ -26,6 +26,20 @@ Read especially:
 - `FRE 801`
 - `FRE 803`
 
+## Landmark Cases
+
+- `Old Chief v. United States`
+- `Crawford v. Washington`
+- `Daubert v. Merrell Dow`
+- `Tome v. United States`
+
+## Common Exam Traps
+
+- run the `403` balance even after evidence clears relevance
+- before calling a statement hearsay, ask whether it is offered for its truth and whether `801(d)` makes it non-hearsay
+- keep impeachment (credibility) separate from substantive use, and match each character-evidence route to its rule
+- in criminal cases, overlay the Confrontation Clause (`Crawford`) on testimonial hearsay
+
 ## Best Supplement If You Need One
 
 - a concise evidence supplement is worthwhile if hearsay is slowing you down

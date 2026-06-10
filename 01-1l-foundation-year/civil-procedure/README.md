@@ -28,6 +28,13 @@ Civil procedure teaches how a lawsuit exists at all: where it can be filed, what
 - `Twombly`
 - `Iqbal`
 
+## Common Exam Traps
+
+- analyze personal jurisdiction and subject-matter jurisdiction separately; they are independent requirements
+- diversity must be complete and is measured at filing; the amount in controversy excludes interest and costs
+- on a `12(b)(6)` motion, only the complaint's well-pleaded facts count, taken as true — do not import summary-judgment thinking
+- under `Erie`, when a valid Federal Rule is on point, apply it (`Hanna`) rather than reaching for the outcome-determinative test
+
 ## Best Supplement If You Need One
 
 - `The Glannon Guide to Civil Procedure`

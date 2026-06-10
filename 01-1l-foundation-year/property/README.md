@@ -23,6 +23,13 @@ Property teaches how law allocates control, exclusion, use, possession, and titl
 - `Johnson v. M'Intosh`
 - `Jacque v. Steenberg Homes`
 
+## Common Exam Traps
+
+- classify future interests precisely and run the Rule Against Perpetuities
+- keep easements, real covenants, and equitable servitudes distinct, each with its own running requirements
+- match the recording-act type (race, notice, race-notice) to who qualifies as a bona fide purchaser
+- state every adverse-possession element (open and notorious, hostile, continuous, exclusive) for the full statutory period
+
 ## Best Supplement If You Need One
 
 - `Examples & Explanations for Property`

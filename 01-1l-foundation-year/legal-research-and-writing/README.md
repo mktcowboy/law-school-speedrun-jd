@@ -29,6 +29,13 @@ This is not an elective skill. It is the operating system for every doctrinal co
 - write one short memo
 - cite your sources cleanly
 
+## Common Mistakes
+
+- citing secondary authority where binding primary authority exists
+- stating a rule without synthesizing it across the cases that built it
+- writing IRAC that announces a conclusion without applying facts to each element
+- omitting the strongest counter-argument
+
 ## Best Supplement If You Need One
 
 - `The Bluebook` only if you need formal citation depth

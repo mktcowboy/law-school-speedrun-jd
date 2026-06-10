@@ -26,6 +26,13 @@ Contracts teaches enforceable exchange. It is where you learn offer, assent, con
 - `Lucy v. Zehmer`
 - `Hawkins v. McGee`
 
+## Common Exam Traps
+
+- decide `common law` versus `UCC Article 2` (goods) before applying any rule
+- consideration is bargained-for exchange; past consideration and moral obligation are not enough
+- do not jump to expectation damages without checking foreseeability (`Hadley`), certainty, and mitigation
+- treat the statute of frauds and the parol evidence rule as doctrines with exceptions, not automatic bars
+
 ## Best Supplement If You Need One
 
 - `Examples & Explanations for Contracts`

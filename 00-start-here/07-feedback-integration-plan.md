@@ -11,6 +11,25 @@ The goal is to preserve the current strengths of the curriculum:
 
 At the same time, the repo can absorb several of the suggestions in a way that makes the curriculum feel more like a real law-school program and less like a high-quality reading library.
 
+## Implementation Status
+
+Updated `June 10, 2026`. The following items from this plan are now built:
+
+- ✅ pre-1L methods bridge: [00-pre-1l-methods-and-mindset](../00-pre-1l-methods-and-mindset/README.md)
+- ✅ supplement policy and pairings: [08-supplement-policy-and-pairings.md](./08-supplement-policy-and-pairings.md)
+- ✅ assessment and exam-archive method: [09-assessment-and-exam-archive-method.md](./09-assessment-and-exam-archive-method.md)
+- ✅ landmark case canon (new): [10-landmark-case-canon.md](./10-landmark-case-canon.md)
+- ✅ subject READMEs standardized with a `Common Exam Traps` section
+- ✅ sourcing rule clarified for primary law and tools in [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md)
+- ✅ added T10/Ivy faculty courses (Amar, Sandel, Fisher) and the nonprofit backbone (Cornell LII, CALI, NCC) to the resource directory
+
+Still open:
+
+- 3L practice-direction track files (`01-litigation-track.md`, `02-transactional-track.md`)
+- stronger explicit `1L` dual-track (doctrine + skills) framing
+- explicit Con Law II / later constitutional continuation note
+- editorial tightening of `2L` framing
+
 ## Big Picture
 
 Most of the suggested improvements do **not** require a major rebuild.

@@ -28,6 +28,13 @@ Criminal procedure assumes you already understand criminal liability and can now
 - `Miranda v. Arizona`
 - `Gideon v. Wainwright`
 
+## Common Exam Traps
+
+- answer the threshold "search or seizure / reasonable expectation of privacy" question (`Katz`) before any warrant analysis
+- match the facts to each warrant exception's specific scope rather than listing exceptions generically
+- keep Miranda (Fifth Amendment, custodial interrogation) distinct from the Sixth Amendment right to counsel (offense-specific, post-charge)
+- know the fruit-of-the-poisonous-tree exceptions: independent source, inevitable discovery, attenuation
+
 ## Best Supplement If You Need One
 
 - only after you have worked through the constitutional framework directly

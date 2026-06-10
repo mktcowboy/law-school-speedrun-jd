@@ -28,6 +28,13 @@ This is where many students learn to read statutes in earnest rather than leanin
 - `UCC 2-207`
 - `UCC 2-313` to `2-315`
 
+## Common Exam Traps
+
+- confirm Article 2 scope (goods) and merchant status before applying `2-207`
+- in the battle of the forms, analyze additional versus different terms carefully
+- keep `attachment`, `perfection`, and `priority` as three separate steps in Article 9
+- watch the PMSI super-priority timing requirements
+
 ## Best Supplement If You Need One
 
 - only after you have read the code itself

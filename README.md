@@ -22,6 +22,7 @@ If someone wants to compress the journey into a fixed schedule, that option stil
 ## Folder Map
 
 - `00-start-here`
+- `00-pre-1l-methods-and-mindset`
 - `01-1l-foundation-year`
 - `02-2l-doctrinal-depth-and-codes`
 - `03-3l-practice-synthesis-and-launch`
@@ -80,14 +81,15 @@ As of `June 2, 2026`:
 ## How To Start
 
 1. Read [00-start-here/01-how-to-use-this-plan.md](./00-start-here/01-how-to-use-this-plan.md).
-2. Set up your materials from [00-start-here/02-books-and-supplies.md](./00-start-here/02-books-and-supplies.md).
-3. Bookmark [00-start-here/03-open-resource-library.md](./00-start-here/03-open-resource-library.md).
-4. Review the sourcing rule in [00-start-here/05-top-10-school-priority-basis.md](./00-start-here/05-top-10-school-priority-basis.md).
-5. Use the school-by-school map in [00-start-here/06-top-tier-school-resource-directory.md](./00-start-here/06-top-tier-school-resource-directory.md) when you want stronger elite-school support.
-6. Use the reading system in [00-start-here/04-study-system-and-deliverables.md](./00-start-here/04-study-system-and-deliverables.md).
-7. Work from [01-1l-foundation-year/README.md](./01-1l-foundation-year/README.md) and [01-1l-foundation-year/01-reading-sequence-and-free-sources.md](./01-1l-foundation-year/01-reading-sequence-and-free-sources.md) forward.
-8. Move to [02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md](./02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md) after your 1L pass is genuinely solid.
-9. Buy a book only if the free pass leaves a subject genuinely sticky.
+2. If case-reading is new to you, work through the methods bridge in [00-pre-1l-methods-and-mindset/README.md](./00-pre-1l-methods-and-mindset/README.md) before any doctrine.
+3. Set up your materials from [00-start-here/02-books-and-supplies.md](./00-start-here/02-books-and-supplies.md), and read the supplement rule in [00-start-here/08-supplement-policy-and-pairings.md](./00-start-here/08-supplement-policy-and-pairings.md).
+4. Bookmark [00-start-here/03-open-resource-library.md](./00-start-here/03-open-resource-library.md).
+5. Review the sourcing rule in [00-start-here/05-top-10-school-priority-basis.md](./00-start-here/05-top-10-school-priority-basis.md).
+6. Use the school-by-school map in [00-start-here/06-top-tier-school-resource-directory.md](./00-start-here/06-top-tier-school-resource-directory.md) when you want stronger elite-school support.
+7. Use the reading system in [00-start-here/04-study-system-and-deliverables.md](./00-start-here/04-study-system-and-deliverables.md), and build the timed-writing loop from [00-start-here/09-assessment-and-exam-archive-method.md](./00-start-here/09-assessment-and-exam-archive-method.md).
+8. Work from [01-1l-foundation-year/README.md](./01-1l-foundation-year/README.md) and [01-1l-foundation-year/01-reading-sequence-and-free-sources.md](./01-1l-foundation-year/01-reading-sequence-and-free-sources.md) forward, checking coverage against [00-start-here/10-landmark-case-canon.md](./00-start-here/10-landmark-case-canon.md).
+9. Move to [02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md](./02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md) after your 1L pass is genuinely solid.
+10. Buy a book only if the free pass leaves a subject genuinely sticky.
 
 ## End State
 

@@ -30,12 +30,18 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - Legal Research Strategy: <https://guides.library.harvard.edu/law/researchstrategy>
 - Statutes: U.S. and State Codes: <https://guides.library.harvard.edu/law/statutes>
 - Online Legal History Sources: <https://guides.library.harvard.edu/onlinelegalhistory>
+- CopyrightX (William Fisher, HarvardX) free lectures: <https://copyx.org/lectures/>
+- CopyrightX course home: <https://copyx.org/>
+- Justice (Michael Sandel) free course and videos: <https://justiceharvard.org/>
 
 ### Best Uses In This Curriculum
 
 - start `1L` doctrinal reading here
 - use the statutes guide when `contracts`, `commercial law`, or `administrative law` become code-heavy
 - use the legal-history guide when constitutional materials need historical context
+- use `CopyrightX` as a full elite intellectual-property elective if you go that direction in `2L/3L`
+- use `Justice` (Sandel) as a free moral- and political-philosophy companion for `criminal law`, jurisprudence, and constitutional-rights reasoning
+- if you can access it, treat Harvard's `Zero-L` pre-orientation course as a model for the methods bridge in [00-pre-1l-methods-and-mindset](../00-pre-1l-methods-and-mindset/README.md)
 
 ## Yale
 
@@ -54,12 +60,16 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - Docket Research: <https://library.law.yale.edu/research-guides/docket-research>
 - Locating Court Records, Briefs and Oral Arguments: <https://library.law.yale.edu/research-guides/locating-court-records-briefs-and-oral-arguments>
 - Guide for Substantial and Supervised Analytical Writing Research: <https://library.law.yale.edu/research-guides/guide-substantial-and-supervised-analytical-writing-saw-research>
+- Akhil Amar (Yale) "Amarica's Constitution" podcast: <https://amaricasconstitution.podbean.com/>
+- Akhil Amar faculty site and videos: <https://akhilamar.com/>
+- Yale Law School announcement of the podcast: <https://law.yale.edu/yls-today/news/professor-amar-launches-podcast-constitutional-issues>
 
 ### Best Uses In This Curriculum
 
 - use `Avalon` and `Constitution Day Resources` to deepen constitutional law
 - use `Docket Research` and `Locating Court Records, Briefs and Oral Arguments` when you want to see how cases look outside trimmed casebook excerpts
 - use the `SAW` guide when you begin seminar-paper or capstone-level research
+- use `Akhil Amar`'s podcast and videos as a signature Yale voice on constitutional structure, history, and method
 
 ## Stanford
 
@@ -183,6 +193,51 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - use NYU's note-writing material when you move from class outlines into sustained legal scholarship
 - use the writing PDF when planning `2L/3L` seminar papers, journal notes, or capstone writing
 
+## Essential Free Backbone Beyond The Top-10 Band
+
+These are nonprofit and public-service standards that no top-10 school replicates. Under the sourcing rule, the top-10 band governs `teaching materials`; for `primary law`, `reference`, and `practice tools`, use the best-in-class free host regardless of rank. See [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md).
+
+### Cornell Legal Information Institute (LII)
+
+### Best For
+
+- free primary law and quick doctrinal reference
+
+### Core Resources
+
+- LII home: <https://www.law.cornell.edu/>
+- Wex legal dictionary and encyclopedia: <https://www.law.cornell.edu/wex>
+- U.S. Code: <https://www.law.cornell.edu/uscode/text>
+- U.S. Constitution: <https://www.law.cornell.edu/constitution>
+- Federal Rules collection: <https://www.law.cornell.edu/rules>
+- Federal Rules of Civil Procedure: <https://www.law.cornell.edu/rules/frcp>
+- Federal Rules of Evidence: <https://www.law.cornell.edu/rules/fre>
+
+### CALI And eLangdell
+
+### Best For
+
+- guided, auto-scored practice lessons and free open casebooks
+
+### Core Resources
+
+- CALI home (lessons; school authorization code required): <https://www.cali.org/>
+- eLangdell open casebooks: <https://www.cali.org/the-elangdell-bookstore>
+- About eLangdell: <https://www.cali.org/elangdell/about>
+
+### National Constitution Center
+
+### Best For
+
+- nonpartisan, clause-by-clause constitutional reference
+
+### Core Resources
+
+- Interactive Constitution (about): <https://constitutioncenter.org/the-constitution/about-the-interactive-constitution>
+- National Constitution Center constitution hub: <https://constitutioncenter.org/the-constitution>
+
+Note: the Interactive Constitution pairs scholars selected with the `American Constitution Society` and the `Federalist Society`, which is why it reads as balanced rather than one-sided.
+
 ## Best Pairings By Subject
 
 ### Civil Procedure
@@ -197,6 +252,8 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 
 - Yale Avalon
 - Yale Constitution Day Resources
+- Akhil Amar (Yale) podcast and videos
+- National Constitution Center Interactive Constitution
 - Stanford Supreme Court Materials
 - Columbia Global Freedom of Expression
 - Columbia Teaching Portal
@@ -241,6 +298,18 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - ABA Model Rules
 - Harvard-hosted H2O Professional Responsibility
 - Duke Legal Ethics guide
+
+### Intellectual Property (Elective)
+
+- Harvard CopyrightX lectures (William Fisher)
+- Harvard-hosted H2O for any IP casebook spine
+- U.S. Copyright Office and USPTO primary materials
+
+### Criminal Law And Jurisprudence
+
+- Harvard-hosted H2O Criminal Law
+- Harvard Justice (Sandel) for moral and political theory behind punishment
+- the Model Penal Code text itself for the mental-state framework
 
 ## Practical Rule
 

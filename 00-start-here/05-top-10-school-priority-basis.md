@@ -45,6 +45,17 @@ When choosing among free public materials:
 2. if the Ivies do not offer a good public option for that subject, use another school inside the same current `top-10` band
 3. if the real target is the law itself, move to the `official text` instead of forcing a school source
 
+## Teaching Materials Versus Primary Law And Tools
+
+The `top-10-school` rule governs `teaching materials` — casebooks, doctrinal guides, research guides, and faculty-produced courses. For those, rank matters, because you want the clearest elite instruction.
+
+It does `not` govern `primary law` or `core public tools`. For those, use the best-in-class free host regardless of school rank:
+
+- `primary law` — the Constitution, statutes, the U.S. Code, the CFR, and the Federal Rules, from official or canonical free hosts
+- `reference and tools` — `Cornell LII` and `Wex`, `CALI` and `eLangdell`, `Oyez`, `CourtListener`, and the `National Constitution Center` are nonprofit public-service standards that no top-10 school replicates
+
+Forcing a lower-quality top-10 source where a canonical nonprofit host is the standard would defeat the goal. Use the rule to pick `who teaches you`, and use the best free host to read `the law itself`.
+
 ## Public Ranking References
 
 - The Daily Pennsylvanian summary: <https://www.thedp.com/article/2026/04/penn-carey-law-us-news-report-ranking-2026>
