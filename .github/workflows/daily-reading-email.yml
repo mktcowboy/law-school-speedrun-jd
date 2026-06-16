@@ -7,9 +7,12 @@ name: Daily reading email
 
 on:
   schedule:
-    # 12:00 UTC daily (~07:00 US Central / 08:00 US Eastern in winter).
-    # GitHub runs cron in UTC and may delay busy runs by a few minutes.
-    - cron: "0 12 * * *"
+    # 6:00 AM US Central. GitHub cron is UTC and does NOT observe daylight saving.
+    # 11:00 UTC = 6:00 AM CDT (UTC-5), which is Central time from mid-March to
+    # early November — i.e. the entire June->Sept window of this 90-day program.
+    # If you keep running it past early November, change this to "0 12 * * *"
+    # (12:00 UTC = 6:00 AM CST). Cron runs are best-effort and may be a few min late.
+    - cron: "0 11 * * *"
   workflow_dispatch: {}   # adds a "Run workflow" button to test on demand
 
 permissions:
