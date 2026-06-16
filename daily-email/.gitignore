@@ -1,0 +1,4 @@
+# Never commit credentials or local send state
+config.json
+state.json
+__pycache__/

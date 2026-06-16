@@ -1,0 +1,51 @@
+name: Daily reading email
+
+# Sends one law-school reading assignment per day, in the cloud, whether or not
+# your computer is on. Credentials come from encrypted repo secrets (Settings ->
+# Secrets and variables -> Actions): MAIL_RECIPIENT, MAIL_SENDER, MAIL_APP_PASSWORD.
+# Optional repo Variable MAIL_START_DATE (YYYY-MM-DD) sets Day 1; defaults below.
+
+on:
+  schedule:
+    # 12:00 UTC daily (~07:00 US Central / 08:00 US Eastern in winter).
+    # GitHub runs cron in UTC and may delay busy runs by a few minutes.
+    - cron: "0 12 * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button to test on demand
+
+permissions:
+  contents: write          # only for the keepalive commit below
+
+concurrency:
+  group: daily-reading-email
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Send today's reading assignment
+        env:
+          MAIL_RECIPIENT: ${{ secrets.MAIL_RECIPIENT }}
+          MAIL_SENDER: ${{ secrets.MAIL_SENDER }}
+          MAIL_APP_PASSWORD: ${{ secrets.MAIL_APP_PASSWORD }}
+          MAIL_START_DATE: ${{ vars.MAIL_START_DATE || '2026-06-16' }}
+        run: python daily-email/send_daily.py
+
+      # GitHub disables scheduled workflows after 60 days with no repo commits.
+      # This 90-day program would otherwise pause near day 60, so each run writes
+      # a timestamp and commits it, which resets that clock. [skip ci] + the
+      # schedule-only trigger means this commit never re-triggers the workflow.
+      - name: Keepalive commit
+        if: always()
+        run: |
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > daily-email/last_run.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily-email/last_run.txt
+          git commit -m "chore(daily-email): keepalive $(date -u +%F) [skip ci]" || echo "nothing to commit"
+          git push || echo "push skipped"

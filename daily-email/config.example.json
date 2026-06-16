@@ -1,0 +1,8 @@
+{
+  "recipient": "you@example.com",
+  "sender": "you@gmail.com",
+  "app_password": "abcdefghijklmnop",
+  "start_date": "2026-06-16",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587
+}
