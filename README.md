@@ -1,16 +1,12 @@
 # Traditional 1L-2L-3L Self-Study Curriculum
 
-This folder is a self-directed law school curriculum organized around the traditional `1L -> 2L -> 3L` arc.
+A self-directed JD curriculum built on `T10/Ivy` teaching materials — the case-reading guides, research tools, and doctrinal resources that the Ivy League and a select band of peer schools publish openly. It follows the traditional `1L -> 2L -> 3L` arc.
 
-It is built around the strongest publicly available teaching materials the legal academy makes available. When this repo relies on school-produced guidance, it pulls first from Ivy League law schools and a small set of peer institutions whose public case-reading guides, research tools, and doctrinal materials are unusually strong.
+The sourcing rule is explicit: Ivy League schools come first, then `Stanford` and other top-tier peers wherever their materials set the clearest standard for a subject. When the real task is reading the law itself, official primary-law sources take precedence over any school.
 
-The default version is not a strict calendar. It is a content-first map of what to study, in what general order, and with what materials.
+This is a map, not a calendar — what to study, in what order, and with which materials — and it prioritizes doctrinal depth over the clock. (Want a fixed, compressed schedule instead? That lives in `99-optional-speedrun`.)
 
-The guiding filter is `T10/Ivy`: Ivy League schools inside that band receive first priority, with `Stanford` and other peer schools added whenever their public materials set the clearest standard for the subject. Official primary-law sources still take precedence whenever the real task is reading the law itself.
-
-Many of these materials are also free and publicly accessible, but accessibility is a benefit of the stack, not the reason it was assembled.
-
-If someone wants to compress the journey into a fixed schedule, that option still exists in the `99-optional-speedrun` folder. But the main curriculum now prioritizes doctrinal coverage over the clock.
+Nearly all of these resources are free and openly accessible. That is a feature of the stack, not the reason it was chosen: every source earned its place on quality first.
 
 ## What This Is For
 
