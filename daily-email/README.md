@@ -10,6 +10,8 @@ Each email contains:
 - the day's focus and the exact rules/cases to read — each linked, with what to do;
 - a one-line thread tying the day to what came before and after;
 - a school-tagged **T10/Ivy teaching source** for context.
+- a speedrun link to the current day online, the next day, and the full index so
+  you can keep going when you finish early.
 
 Every 7th day reviews and builds; the final 6 bridge into bar prep.
 
@@ -40,8 +42,10 @@ Workflow: [`.github/workflows/daily-reading-email.yml`](../.github/workflows/dai
    secret**, add three: `MAIL_RECIPIENT`, `MAIL_SENDER`, `MAIL_APP_PASSWORD`.
 2. (Optional) Add a `MAIL_START_DATE` (`YYYY-MM-DD`) **Variable** for Day 1; else
    the workflow default applies.
-3. Push `daily-email/` and `.github/` to the default branch.
-4. Test: **Actions → Daily reading email → Run workflow**, then check your inbox.
+3. In **Settings → Pages**, set the build/deploy source to **GitHub Actions** so
+   the click-through day pages can publish.
+4. Push `daily-email/` and `.github/` to the default branch.
+5. Test: **Actions → Daily reading email → Run workflow**, then check your inbox.
 
 Runs daily at `0 11 * * *` = 11:00 UTC = **6 AM US Central** (daylight months; use
 `0 12` for 6 AM CST in winter). A tiny `[skip ci]` keepalive commit each run
@@ -72,5 +76,6 @@ python send_daily.py --day 1              # send a specific day (test)
 |------|---------|
 | `curriculum.py` | The 90-day schedule (data + builder). |
 | `send_daily.py` | Builds and sends today's email (config.json locally, `MAIL_*` secrets in the cloud). |
+| `build_site.py` | Publishes the linked day pages and full index used by the email speedrun links. |
 | `../.github/workflows/daily-reading-email.yml` | Cloud daily schedule. |
 | `setup.ps1`, `config.example.json` | Local setup. `config.json` / `state.json` are git-ignored. |
