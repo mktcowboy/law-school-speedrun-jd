@@ -6,7 +6,7 @@ The point of `2L` is not just more doctrine. It is learning how to read denser s
 
 The working rule is:
 
-1. start with the strongest free public material from a current `top-10` law school
+1. start with relevant free public material from a current `top-10` law school
 2. spend real time in the actual code, rule set, or regulation
 3. use commentary only to sharpen structure, not replace reading
 

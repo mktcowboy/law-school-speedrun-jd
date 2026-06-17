@@ -1,8 +1,8 @@
-# Top-Tier School Resource Directory
+# Ivy/T10 Resource Directory
 
 Verified and expanded on `June 2, 2026`.
 
-This directory gathers the strongest `free`, `public`, `school-produced` resources from Ivy League and other top-tier law schools that fit this curriculum.
+This directory gathers `free`, `public`, `school-produced` resources from Ivy League and other `T10` law schools that fit this curriculum.
 
 Use the main year guides first. Use this directory when you want to deepen a subject, improve your research process, or write more like a real law student.
 
@@ -11,7 +11,7 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - use the `1L` and `2L` reading guides for your main sequence
 - use this directory when you want a stronger `research`, `writing`, or `subject-deepening` layer
 - prefer `official law` whenever the real task is reading the controlling rule, statute, or constitutional text
-- treat `Stanford` as first-line support whenever you need elite `free legal research`, `docket`, `Supreme Court`, `legislative history`, or `transactional` guidance
+- treat `Stanford` as first-line support whenever you need `free legal research`, `docket`, `Supreme Court`, `legislative history`, or `transactional` guidance
 
 ## Harvard
 
@@ -39,7 +39,7 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - start `1L` doctrinal reading here
 - use the statutes guide when `contracts`, `commercial law`, or `administrative law` become code-heavy
 - use the legal-history guide when constitutional materials need historical context
-- use `CopyrightX` as a full elite intellectual-property elective if you go that direction in `2L/3L`
+- use `CopyrightX` as a full intellectual-property elective if you go that direction in `2L/3L`
 - use `Justice` (Sandel) as a free moral- and political-philosophy companion for `criminal law`, jurisprudence, and constitutional-rights reasoning
 - if you can access it, treat Harvard's `Zero-L` pre-orientation course as a model for the methods bridge in [00-pre-1l-methods-and-mindset](../00-pre-1l-methods-and-mindset/README.md)
 
@@ -69,7 +69,7 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - use `Avalon` and `Constitution Day Resources` to deepen constitutional law
 - use `Docket Research` and `Locating Court Records, Briefs and Oral Arguments` when you want to see how cases look outside trimmed casebook excerpts
 - use the `SAW` guide when you begin seminar-paper or capstone-level research
-- use `Akhil Amar`'s podcast and videos as a signature Yale voice on constitutional structure, history, and method
+- use `Akhil Amar`'s podcast and videos for Yale constitutional structure, history, and method
 
 ## Stanford
 
@@ -145,7 +145,7 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 
 - use `Legal Research Fundamentals` as another excellent `1L` research map
 - use the statutory-research page when working through statutes in `contracts`, `commercial law`, and `admin law`
-- use `The Regulatory Review` as a top-tier reading companion for `administrative law` and regulatory-state topics
+- use `The Regulatory Review` as a reading companion for `administrative law` and regulatory-state topics
 
 ## Duke
 
@@ -313,7 +313,7 @@ Note: the Interactive Constitution pairs scholars selected with the `American Co
 
 ## Practical Rule
 
-If you are unsure which elite-school resource to use:
+If you are unsure which `Ivy/T10` resource to use:
 
 - use `Harvard` for casebooks and first-pass doctrinal reading
 - use `Yale` for constitutional and research-process deepening
