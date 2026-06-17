@@ -30,7 +30,7 @@ import sys
 from email.message import EmailMessage
 from pathlib import Path
 
-from curriculum import build_schedule, TOTAL_DAYS
+from curriculum import build_schedule, TOTAL_DAYS, YEAR_ORDER
 
 HERE = Path(__file__).resolve().parent
 STATE_PATH = HERE / "state.json"
@@ -85,10 +85,20 @@ def render(entry: dict) -> tuple[str, str, str]:
     n = entry["day"]
     subject = f"[Law Speedrun] Day {n}/{TOTAL_DAYS} - {entry['subject']}"
 
+    year = entry.get("year")
+    year_rail = "  ->  ".join(f"[{y}]" if y == year else y for y in YEAR_ORDER)
+
+    # Study days frame the week's exit standard as a forward-looking goal ("By
+    # Sunday you'll be able to ..."), so drop the "You can " lead-in it's written with.
+    goal_text = entry.get("exit", "")
+    if entry.get("kind") == "study" and goal_text.startswith("You can "):
+        goal_text = goal_text[len("You can "):]
+
     # ---- Plain text ----
     lines = [
         entry["title"],
-        entry["phase"],
+        entry.get("year_label", entry["phase"]),
+        f"JD year: {year_rail}",
         "=" * 60,
         "",
         "FOCUS",
@@ -104,6 +114,18 @@ def render(entry: dict) -> tuple[str, str, str]:
             lines.append(f"  {i}. {r['label']}")
             lines.append(f"     {r['do']}")
             lines.append(f"     {r['url']}")
+        lines.append("")
+    if entry.get("week_arc"):
+        diw = entry.get("day_in_week", 0)
+        lines.append(f"THIS WEEK ({entry['subject']})")
+        for idx, t in enumerate(entry["week_arc"], start=1):
+            if idx == diw:
+                lines.append(f"  > Day {idx}: {t}   <- you are here")
+            elif idx < diw:
+                lines.append(f"  x Day {idx}: {t}")
+            else:
+                lines.append(f"    Day {idx}: {t}")
+        lines.append(f"  + Day {len(entry['week_arc']) + 1}: Review & build the week's artifacts")
         lines.append("")
     if entry.get("canon"):
         lines.append("THIS WEEK'S CANON (recall from memory)")
@@ -121,8 +143,8 @@ def render(entry: dict) -> tuple[str, str, str]:
             lines.append(f"  - {w}")
         lines.append("")
     if entry.get("exit"):
-        lines.append("WEEK EXIT STANDARD")
-        lines.append(f"  {entry['exit']}")
+        lines.append("BY SUNDAY YOU'LL BE ABLE TO" if entry.get("kind") == "study" else "WEEK EXIT STANDARD")
+        lines.append(f"  {goal_text}")
         lines.append("")
     if entry.get("connect"):
         lines.append("HOW THIS CONNECTS")
@@ -141,44 +163,111 @@ def render(entry: dict) -> tuple[str, str, str]:
     def esc(s: str) -> str:
         return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
+    pills = []
+    for y in YEAR_ORDER:
+        if y == year:
+            pills.append(f'<span style="background:#3b5bdb;color:#fff;font-size:12px;font-weight:600;'
+                         f'padding:2px 10px;border-radius:999px;">{esc(y)}</span>')
+        else:
+            pills.append(f'<span style="background:#eef0f7;color:#8a90a2;font-size:12px;'
+                         f'padding:2px 10px;border-radius:999px;">{esc(y)}</span>')
+    rail = ('<span style="color:#c2c7d6;font-size:12px;">&nbsp;&rarr;&nbsp;</span>').join(pills)
+
+    def section_label(text: str) -> str:
+        return (f'<div style="font-size:11px;letter-spacing:0.09em;text-transform:uppercase;'
+                f'color:#9aa0b0;font-weight:600;margin:26px 0 10px;">{text}</div>')
+
+    # Week arc: a compact stepper showing where today sits in the 7-day week.
+    arc_html = ""
+    if entry.get("week_arc"):
+        diw = entry.get("day_in_week", 0)
+        steps = list(enumerate(entry["week_arc"], start=1))
+        steps.append((len(entry["week_arc"]) + 1, "Review & build the week's artifacts"))
+        rows = []
+        for idx, topic in steps:
+            if idx == diw:
+                circle = ('<span style="display:inline-block;width:24px;height:24px;line-height:24px;'
+                          'text-align:center;border-radius:50%;background:#3b5bdb;color:#fff;'
+                          f'font-size:12px;font-weight:600;">{idx}</span>')
+                text_style = "color:#16203a;font-weight:600;"
+                tag = ('<span style="background:#3b5bdb;color:#fff;font-size:9px;font-weight:600;'
+                       'letter-spacing:0.06em;padding:2px 7px;border-radius:999px;margin-left:8px;'
+                       'vertical-align:1px;">TODAY</span>')
+            elif idx < diw:
+                circle = ('<span style="display:inline-block;width:24px;height:24px;line-height:24px;'
+                          'text-align:center;border-radius:50%;background:#e7eaf3;color:#9aa0b0;'
+                          'font-size:12px;font-weight:600;">&#10003;</span>')
+                text_style = "color:#a2a8b6;"
+                tag = ""
+            else:
+                circle = ('<span style="display:inline-block;width:22px;height:22px;line-height:22px;'
+                          'text-align:center;border-radius:50%;background:#ffffff;color:#aeb4c2;'
+                          f'border:1px solid #d8dce8;font-size:12px;font-weight:600;">{idx}</span>')
+                text_style = "color:#5a6072;"
+                tag = ""
+            rows.append(
+                f'<tr><td valign="top" style="padding:5px 0;width:36px;">{circle}</td>'
+                f'<td valign="top" style="padding:6px 0 6px 4px;font-size:14px;line-height:1.4;{text_style}">'
+                f'{esc(topic)}{tag}</td></tr>'
+            )
+        arc_html = (
+            '<div style="background:#fafbfd;border:1px solid #eef0f5;border-radius:10px;padding:12px 18px;">'
+            '<table role="presentation" cellpadding="0" cellspacing="0" border="0" '
+            'style="width:100%;border-collapse:collapse;">' + "".join(rows) + '</table></div>'
+        )
+
     html_parts = [
         '<div style="font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;'
         'max-width:640px;margin:0 auto;color:#1a1a1a;line-height:1.55;">',
-        f'<p style="color:#888;font-size:13px;margin:0 0 4px;">{esc(entry["phase"])}</p>',
+        f'<p style="color:#888;font-size:13px;margin:0 0 4px;">{esc(entry.get("year_label", entry["phase"]))}</p>',
         f'<h2 style="margin:0 0 4px;">{esc(entry["title"])}</h2>',
-        f'<p style="color:#666;margin:0 0 18px;">Day {n} of {TOTAL_DAYS}</p>',
-        f'<p><strong>Focus.</strong> {esc(entry["focus"])}</p>',
-        f'<div style="background:#f4f6fb;border-left:4px solid #3b5bdb;padding:12px 16px;'
-        f'margin:16px 0;"><strong>Today</strong><br>{esc(entry["topic"])}</div>',
+        f'<p style="color:#666;margin:0 0 10px;">Day {n} of {TOTAL_DAYS}</p>',
+        f'<div style="margin:0 0 20px;">{rail}</div>',
+        f'<p style="margin:0 0 4px;"><strong>Focus.</strong> {esc(entry["focus"])}</p>',
+        '<div style="background:#f4f6fb;border-left:4px solid #3b5bdb;padding:12px 16px;margin:18px 0;">'
+        '<div style="font-size:11px;letter-spacing:0.09em;text-transform:uppercase;color:#3b5bdb;'
+        'font-weight:600;margin-bottom:4px;">Today</div>'
+        f'<div style="color:#16203a;">{esc(entry["topic"])}</div></div>',
     ]
     if entry.get("reads"):
-        html_parts.append('<p style="margin:18px 0 8px;"><strong>Read (and what to do)</strong></p>')
-        html_parts.append('<ol style="padding-left:20px;margin:0;">')
+        html_parts.append(section_label("Read &mdash; and what to do"))
+        html_parts.append('<ol style="padding-left:22px;margin:0;">')
         for r in entry["reads"]:
             html_parts.append(
-                f'<li style="margin-bottom:12px;"><a href="{esc(r["url"])}" '
-                f'style="font-weight:500;">{esc(r["label"])}</a>'
-                f'<br><span style="color:#444;font-size:14px;">{esc(r["do"])}</span></li>'
+                f'<li style="margin-bottom:14px;padding-left:4px;">'
+                f'<a href="{esc(r["url"])}" style="font-weight:600;color:#2952cc;text-decoration:none;">{esc(r["label"])}</a>'
+                f'<div style="color:#555;font-size:14px;margin-top:3px;">{esc(r["do"])}</div></li>'
             )
         html_parts.append("</ol>")
+    if arc_html:
+        html_parts.append(section_label(f"This week &middot; {esc(entry['subject'])}"))
+        html_parts.append(arc_html)
     if entry.get("canon"):
-        items = "".join(f"<li>{esc(c)}</li>" for c in entry["canon"])
-        html_parts.append(f'<p style="margin:18px 0 8px;"><strong>This week\'s canon (recall from memory)</strong></p><ul>{items}</ul>')
+        items = "".join(f'<li style="margin-bottom:5px;">{esc(c)}</li>' for c in entry["canon"])
+        html_parts.append(section_label("This week's canon &mdash; recall from memory"))
+        html_parts.append(f'<ul style="margin:0;padding-left:22px;color:#333;font-size:14px;">{items}</ul>')
     if entry.get("build"):
-        items = "".join(f"<li>{esc(b)}</li>" for b in entry["build"])
-        html_parts.append(f"<p><strong>Build</strong></p><ul>{items}</ul>")
+        items = "".join(f'<li style="margin-bottom:5px;">{esc(b)}</li>' for b in entry["build"])
+        html_parts.append(section_label("Build"))
+        html_parts.append(f'<ul style="margin:0;padding-left:22px;color:#333;font-size:14px;">{items}</ul>')
     if entry.get("writing"):
-        items = "".join(f"<li>{esc(w)}</li>" for w in entry["writing"])
-        html_parts.append(f"<p><strong>Writing assignment</strong></p><ul>{items}</ul>")
+        items = "".join(f'<li style="margin-bottom:5px;">{esc(w)}</li>' for w in entry["writing"])
+        html_parts.append(section_label("Writing assignment"))
+        html_parts.append(f'<ul style="margin:0;padding-left:22px;color:#333;font-size:14px;">{items}</ul>')
     if entry.get("exit"):
+        goal_label = "By Sunday you'll be able to" if entry.get("kind") == "study" else "Week exit standard"
         html_parts.append(
-            f'<p style="background:#f0fdf4;border-left:4px solid #2f9e44;padding:10px 14px;">'
-            f'<strong>Week exit standard.</strong> {esc(entry["exit"])}</p>'
+            '<div style="background:#f0fdf4;border-left:4px solid #2f9e44;padding:12px 16px;margin:18px 0;">'
+            '<div style="font-size:11px;letter-spacing:0.09em;text-transform:uppercase;color:#2f9e44;'
+            f'font-weight:600;margin-bottom:4px;">{goal_label}</div>'
+            f'<div style="color:#1f5132;font-size:14px;">{esc(goal_text)}</div></div>'
         )
     if entry.get("connect"):
         html_parts.append(
-            f'<p style="background:#fff8ec;border-left:4px solid #e8a13a;padding:10px 14px;'
-            f'color:#5a4a2a;font-size:14px;"><strong>How this connects.</strong> {esc(entry["connect"])}</p>'
+            '<div style="background:#fff8ec;border-left:4px solid #e8a13a;padding:12px 16px;margin:18px 0;">'
+            '<div style="font-size:11px;letter-spacing:0.09em;text-transform:uppercase;color:#c77f1a;'
+            'font-weight:600;margin-bottom:4px;">How this connects</div>'
+            f'<div style="color:#5a4a2a;font-size:14px;">{esc(entry["connect"])}</div></div>'
         )
     if entry.get("source_links"):
         links = " &nbsp;·&nbsp; ".join(f'<a href="{esc(u)}">{esc(l)}</a>' for l, u in entry["source_links"])
