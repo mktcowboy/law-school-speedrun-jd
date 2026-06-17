@@ -19,6 +19,17 @@ PHASE_ONE = "Phase One: Foundations"
 PHASE_TWO = "Phase Two: Core and Codes"
 PHASE_THREE = "Phase Three: Advanced and Litigation"
 
+# Real-JD-year placement. Pacing stays even (one subject per week), but every
+# subject is tagged with the year a traditional JD student would take it, so the
+# email parallels a real 1L -> 2L -> 3L curriculum (matches the repo's
+# 01-1l / 02-2l / 03-3l structure). Descriptors come from those folder names.
+YEAR_LABELS = {
+    "1L": "1L · Foundation Year",
+    "2L": "2L · Doctrinal Depth and Codes",
+    "3L": "3L · Practice, Synthesis and Launch",
+}
+YEAR_ORDER = ["1L", "2L", "3L"]
+
 LII = "https://www.law.cornell.edu"
 
 
@@ -71,7 +82,7 @@ G_STAN_SCOTUS = ("Stanford Supreme Court Materials (Stanford, T10)", "https://gu
 
 WEEKS = [
     {
-        "num": 1, "phase": PHASE_ONE, "subject": "Civil Procedure and Torts",
+        "num": 1, "year": "1L", "phase": PHASE_ONE, "subject": "Civil Procedure and Torts",
         "focus": "Learn how a lawsuit moves and why civil wrongs create liability.",
         "source_links": [CB_CIVPRO, CB_TORTS, G_DUKE_RULES],
         "canon": ["International Shoe (personal jurisdiction)", "Twombly / Iqbal (plausibility pleading)",
@@ -79,7 +90,7 @@ WEEKS = [
         "days": [
             {"topic": "Court power: jurisdiction and getting a defendant into court.",
              "reads": [
-                 {"label": "FRCP 1", "url": frcp(1), "do": "Read the one paragraph; note the 'just, speedy, and inexpensive' purpose that colors every other rule."},
+                 {"label": "FRCP 1", "url": frcp(1), "do": "Read just the rule itself — the two sentences at the top, not the Advisory Committee notes that fill the rest of the page. Note the 'just, speedy, and inexpensive' purpose that colors every other rule."},
                  {"label": "FRCP 4 (Summons)", "url": frcp(4), "do": "Skim (a)-(e), (h), (k); note how a court actually obtains power over a defendant through service."},
                  {"label": "International Shoe Co. v. Washington, 326 U.S. 310 (1945)", "url": scotus(326, 310), "do": "Read the majority; write the 'minimum contacts / fair play and substantial justice' test in one sentence."},
              ],
@@ -123,7 +134,7 @@ WEEKS = [
         "exit": "You can state the difference between a court's power over a case and the merits of a claim, the elements of negligence, and why Palsgraf still matters.",
     },
     {
-        "num": 2, "phase": PHASE_ONE, "subject": "Contracts and Property",
+        "num": 2, "year": "1L", "phase": PHASE_ONE, "subject": "Contracts and Property",
         "focus": "Learn exchange and ownership: how promises become enforceable and how law allocates control over things.",
         "source_links": [CB_CONTRACTS, CB_PROPERTY],
         "canon": ["Lucy v. Zehmer (objective assent)", "Hamer v. Sidway (consideration)",
@@ -169,7 +180,7 @@ WEEKS = [
         "exit": "You can explain why not every promise is enforceable, the difference between ownership and possession language, and how remedies shape contract analysis.",
     },
     {
-        "num": 3, "phase": PHASE_ONE, "subject": "Criminal Law Basics",
+        "num": 3, "year": "1L", "phase": PHASE_ONE, "subject": "Criminal Law Basics",
         "focus": "Learn the architecture of crime: prohibited act, culpable mental state, causation, and defenses.",
         "source_links": [CB_CRIM, G_HARV_JUSTICE],
         "canon": ["Martin v. State (voluntary act)", "Regina v. Cunningham (recklessness)",
@@ -215,7 +226,7 @@ WEEKS = [
         "exit": "You can explain why criminal liability is never just about bad outcomes: it is a required act, a required mental state, and the fit between the two.",
     },
     {
-        "num": 4, "phase": PHASE_ONE, "subject": "Legal Research and Synthesis",
+        "num": 4, "year": "1L", "phase": PHASE_ONE, "subject": "Legal Research and Synthesis",
         "focus": "Learn to move between cases, statutes, rules, and secondary sources without getting lost. This is where reading becomes legal workflow.",
         "source_links": [G_HARV_RESEARCH, G_PENN_RESEARCH, G_COL_WRITING],
         "canon": ["Research map", "Statute brief vs case brief", "Case + rule + secondary triangulation"],
@@ -258,7 +269,7 @@ WEEKS = [
         "exit": "You can answer: where do I start, what source controls, and how do I prove it?",
     },
     {
-        "num": 5, "phase": PHASE_TWO, "subject": "Constitutional Law and Individual Rights",
+        "num": 5, "year": "1L", "phase": PHASE_TWO, "subject": "Constitutional Law and Individual Rights",
         "focus": "Shift into constitutional structure and rights analysis: speech, religion, equal protection, and due process.",
         "source_links": [G_YALE_AVALON, G_YALE_AMAR, G_COL_GFOE],
         "canon": ["Marbury (judicial review)", "NYT v. Sullivan / Tinker (speech)",
@@ -305,7 +316,7 @@ WEEKS = [
         "exit": "You can identify the right constitutional framework before talking about who should win.",
     },
     {
-        "num": 6, "phase": PHASE_TWO, "subject": "Criminal Procedure",
+        "num": 6, "year": "2L", "phase": PHASE_TWO, "subject": "Criminal Procedure",
         "focus": "Study the constitutional limits on policing and prosecution.",
         "source_links": [CB_CRIMPRO, G_STAN_SCOTUS],
         "canon": ["Katz (expectation of privacy)", "Terry (stop and frisk)", "Mapp (exclusionary rule)",
@@ -351,7 +362,7 @@ WEEKS = [
         "exit": "You can explain how the Constitution regulates state power before trial.",
     },
     {
-        "num": 7, "phase": PHASE_TWO, "subject": "Business Associations and Corporations",
+        "num": 7, "year": "2L", "phase": PHASE_TWO, "subject": "Business Associations and Corporations",
         "focus": "Learn the forms through which people organize business activity and the fiduciary duties that govern them.",
         "source_links": [CB_BIZ, G_COL_BLUESKY, G_DUKE_BA],
         "canon": ["Meinhard v. Salmon (loyalty)", "Walkovszky v. Carlton (veil piercing)",
@@ -396,7 +407,7 @@ WEEKS = [
         "exit": "You can explain not just how businesses are formed, but how legal duty travels inside them.",
     },
     {
-        "num": 8, "phase": PHASE_TWO, "subject": "UCC Sales and Secured Transactions",
+        "num": 8, "year": "2L", "phase": PHASE_TWO, "subject": "UCC Sales and Secured Transactions",
         "focus": "Move from common-law contracts into code-based commercial law: extract rules straight from statutory text.",
         "source_links": [G_DUKE_UCC, G_PENN_STATUTES, G_HARV_STATUTES],
         "canon": ["UCC 2-102/2-104 (scope, merchant)", "UCC 2-207 (battle of forms)",
@@ -443,7 +454,7 @@ WEEKS = [
         "exit": "You can move through a statute in order and explain how definitions, scope, and priority rules interact.",
     },
     {
-        "num": 9, "phase": PHASE_THREE, "subject": "Evidence and Trial",
+        "num": 9, "year": "2L", "phase": PHASE_THREE, "subject": "Evidence and Trial",
         "focus": "Learn what information can come into court and why.",
         "source_links": [CB_EVID, G_DUKE_RULES],
         "canon": ["FRE 401-403 (relevance, balancing)", "FRE 404 (character)",
@@ -491,7 +502,7 @@ WEEKS = [
         "exit": "You can answer not only whether a fact matters, but whether the jury is allowed to hear it.",
     },
     {
-        "num": 10, "phase": PHASE_THREE, "subject": "Administrative Law",
+        "num": 10, "year": "2L", "phase": PHASE_THREE, "subject": "Administrative Law",
         "focus": "Study the administrative state: agencies, delegation, rulemaking, adjudication, and judicial review.",
         "source_links": [CB_ADMIN, G_PENN_REGREV, G_DUKE_ADMIN],
         "canon": ["APA 553 (rulemaking)", "APA 554 (adjudication)", "APA 706 (review)",
@@ -535,7 +546,7 @@ WEEKS = [
         "exit": "You can explain how the legal system governs the people who govern.",
     },
     {
-        "num": 11, "phase": PHASE_THREE, "subject": "Professional Responsibility and Ethics",
+        "num": 11, "year": "2L", "phase": PHASE_THREE, "subject": "Professional Responsibility and Ethics",
         "focus": "Study the duties that govern lawyers themselves.",
         "source_links": [CB_PR, G_DUKE_ETHICS],
         "canon": ["Rule 1.1 (competence)", "Rule 1.6 (confidentiality)", "Rules 1.7/1.9 (conflicts)",
@@ -578,7 +589,7 @@ WEEKS = [
         "exit": "You can identify the rule that governs the lawyer before drifting into gut-feel morality.",
     },
     {
-        "num": 12, "phase": PHASE_THREE, "subject": "Capstone Synthesis and Bar Bridge",
+        "num": 12, "year": "3L", "phase": PHASE_THREE, "subject": "Capstone Synthesis and Bar Bridge",
         "focus": "Pull the subjects together and convert doctrinal understanding into exam-usable structure.",
         "source_links": [("NCBE NextGen overview", "https://www.ncbex.org/exams/nextgen"),
                          ("NextGen content scope", "https://www.ncbex.org/exams/nextgen/content-scope")],
@@ -659,17 +670,21 @@ def build_schedule():
     schedule = []
     day = 0
     for week in WEEKS:
+        week_arc = [d["topic"] for d in week["days"]]
         for i, d in enumerate(week["days"], start=1):
             day += 1
             schedule.append({
                 "day": day, "phase": week["phase"], "week": week["num"], "subject": week["subject"],
+                "year": week["year"], "year_label": YEAR_LABELS[week["year"]],
                 "title": f"Week {week['num']} - Day {i}: {week['subject']}",
                 "focus": week["focus"], "topic": d["topic"], "reads": d["reads"],
                 "connect": d["connect"], "source_links": week["source_links"], "kind": "study",
+                "day_in_week": i, "week_arc": week_arc, "exit": week["exit"],
             })
         day += 1
         schedule.append({
             "day": day, "phase": week["phase"], "week": week["num"], "subject": week["subject"],
+            "year": week["year"], "year_label": YEAR_LABELS[week["year"]],
             "title": f"Week {week['num']} - Day 7: Review & Build ({week['subject']})",
             "focus": week["focus"],
             "topic": "Catch up on this week's reading, then build the artifacts and complete the writing assignment.",
@@ -682,6 +697,7 @@ def build_schedule():
         day += 1
         schedule.append({
             "day": day, "phase": PHASE_THREE, "week": 13, "subject": entry["subject"],
+            "year": "3L", "year_label": YEAR_LABELS["3L"],
             "title": f"Day {day}: {entry['subject']}",
             "focus": "Consolidate the full curriculum and bridge into bar preparation.",
             "topic": entry["task"], "reads": entry["reads"], "connect": entry["connect"],
