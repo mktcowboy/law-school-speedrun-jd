@@ -17,6 +17,8 @@ on:
 
 permissions:
   contents: write          # only for the keepalive commit below
+  pages: write             # publish the day-by-day web version linked from email
+  id-token: write          # required by actions/deploy-pages
 
 concurrency:
   group: daily-reading-email
@@ -25,11 +27,26 @@ concurrency:
 jobs:
   send:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Build click-through pages
+        run: python daily-email/build_site.py --out site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Send today's reading assignment
         env:
