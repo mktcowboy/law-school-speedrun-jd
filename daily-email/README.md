@@ -15,7 +15,7 @@ Each email contains:
 
 Every 7th day reviews and builds; the final 6 bridge into bar prep.
 
-## Sourcing — why it's prestige-grade
+## Sourcing
 
 Per the repo's own rule (`00-start-here/05-top-10-school-priority-basis.md`):
 

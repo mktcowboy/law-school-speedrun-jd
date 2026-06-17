@@ -6,7 +6,7 @@ The goal is to read a serious amount of excellent material in the traditional `1
 
 The working rule is simple:
 
-1. start with the strongest free public material from a current `top-10` law school
+1. start with relevant free public material from a current `top-10` law school
 2. read the actual rule text, statute, or constitutional provision
 3. use full opinions, audio, or explainers only after you have read the assigned material
 
@@ -28,7 +28,7 @@ The working rule is simple:
 2. Official Federal Rules of Civil Procedure: <https://www.uscourts.gov/forms-rules/current-rules-practice-procedure/federal-rules-civil-procedure>
 3. CourtListener for any full opinion you want to see unedited: <https://www.courtlistener.com/>
 4. Yale Docket Research if you want to understand how cases live in the court system beyond the casebook: <https://library.law.yale.edu/research-guides/docket-research>
-5. Stanford Docket Research if you want another elite-school guide on docket coverage, retrieval, and limits: <https://guides.law.stanford.edu/dockets>
+5. Stanford Docket Research if you want another guide on docket coverage, retrieval, and limits: <https://guides.law.stanford.edu/dockets>
 6. Duke Court Rules if you want a stronger map of how procedural rules fit together: <https://law.duke.edu/lib/research-guides/court-rules>
 
 ### First-Pass Priorities
@@ -213,7 +213,7 @@ You can identify the constitutional framework, the doctrinal test, and the insti
 7. Penn Legal Research Fundamentals: <https://law.upenn.libguides.com/researchfundamentals>
 8. Columbia legal writing resources: <https://www.law.columbia.edu/academics/experiential/legal-writing/writing-center/legal-writing-resources>
 9. Columbia memo writing checklist: <https://www.law.columbia.edu/sites/default/files/2022-08/WC%20Memo%20Checklist.pdf>
-10. Stanford Writing Notes and Comments for Journal Members if you want an elite-school bridge into longer scholarly writing: <https://guides.law.stanford.edu/writingnotes>
+10. Stanford Writing Notes and Comments for Journal Members if you want a bridge into longer scholarly writing: <https://guides.law.stanford.edu/writingnotes>
 11. NYU Writing a Student Note for upper-level writing development: <https://www.law.nyu.edu/students/studentwriting>
 12. Indigo Book: <https://indigobook.github.io/>
 13. GovInfo: <https://www.govinfo.gov/>

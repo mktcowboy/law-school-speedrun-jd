@@ -2,7 +2,7 @@
 
 A self-directed JD curriculum built on `T10/Ivy` teaching materials — the case-reading guides, research tools, and doctrinal resources that the Ivy League and a select band of peer schools publish openly. It follows the traditional `1L -> 2L -> 3L` arc.
 
-The sourcing rule is explicit: Ivy League schools come first, then `Stanford` and other top-tier peers wherever their materials set the clearest standard for a subject. When the real task is reading the law itself, official primary-law sources take precedence over any school.
+The sourcing rule is explicit: Ivy League schools come first, then `Stanford` and other T10 peers where their materials fit the subject. When the real task is reading the law itself, official primary-law sources take precedence over any school.
 
 This is a map, not a calendar — what to study, in what order, and with which materials — and it prioritizes doctrinal depth over the clock. (Want a fixed, compressed schedule instead? That lives in `99-optional-speedrun`.)
 
@@ -81,7 +81,7 @@ As of `June 2, 2026`:
 3. Set up your materials from [00-start-here/02-books-and-supplies.md](./00-start-here/02-books-and-supplies.md), and read the supplement rule in [00-start-here/08-supplement-policy-and-pairings.md](./00-start-here/08-supplement-policy-and-pairings.md).
 4. Bookmark [00-start-here/03-open-resource-library.md](./00-start-here/03-open-resource-library.md).
 5. Review the sourcing rule in [00-start-here/05-top-10-school-priority-basis.md](./00-start-here/05-top-10-school-priority-basis.md).
-6. Use the school-by-school map in [00-start-here/06-top-tier-school-resource-directory.md](./00-start-here/06-top-tier-school-resource-directory.md) when you want stronger elite-school support.
+6. Use the school-by-school map in [00-start-here/06-ivy-t10-school-resource-directory.md](./00-start-here/06-ivy-t10-school-resource-directory.md) when you want more `Ivy/T10` source support.
 7. Use the reading system in [00-start-here/04-study-system-and-deliverables.md](./00-start-here/04-study-system-and-deliverables.md), and build the timed-writing loop from [00-start-here/09-assessment-and-exam-archive-method.md](./00-start-here/09-assessment-and-exam-archive-method.md).
 8. Work from [01-1l-foundation-year/README.md](./01-1l-foundation-year/README.md) and [01-1l-foundation-year/01-reading-sequence-and-free-sources.md](./01-1l-foundation-year/01-reading-sequence-and-free-sources.md) forward, checking coverage against [00-start-here/10-landmark-case-canon.md](./00-start-here/10-landmark-case-canon.md).
 9. Move to [02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md](./02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md) after your 1L pass is genuinely solid.

@@ -47,7 +47,7 @@ When choosing among free public materials:
 
 ## Teaching Materials Versus Primary Law And Tools
 
-The `top-10-school` rule governs `teaching materials` — casebooks, doctrinal guides, research guides, and faculty-produced courses. For those, rank matters, because you want the clearest elite instruction.
+The `top-10-school` rule governs `teaching materials` — casebooks, doctrinal guides, research guides, and faculty-produced courses. For those, the priority is clear public instruction from `Ivy/T10` sources.
 
 It does `not` govern `primary law` or `core public tools`. For those, use the best-in-class free host regardless of school rank:
 

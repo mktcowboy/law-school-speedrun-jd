@@ -4,21 +4,21 @@ Verified and reprioritized on `June 2, 2026`.
 
 This library is `T10/Ivy-first`, `primary-law-first`, and `reading-first`.
 
-For school-produced materials, this curriculum prioritizes public resources from the strongest `T10/Ivy` law-school institutions first. The goal is not just to collect free links. It is to build a study stack around the clearest public teaching, research, writing, and doctrinal guidance the top of the legal academy makes available. Official law sources remain the default whenever the subject turns into actual constitutional text, statutes, regulations, or court rules.
+For school-produced materials, this curriculum prioritizes public `T10/Ivy` law-school resources first. The goal is not just to collect free links. It is to build a study stack around clear public teaching, research, writing, and doctrinal guidance. Official law sources remain the default whenever the subject turns into actual constitutional text, statutes, regulations, or court rules.
 
 See [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md) for the sourcing rule.
-See [06-top-tier-school-resource-directory.md](./06-top-tier-school-resource-directory.md) for the deeper school-by-school map.
+See [06-ivy-t10-school-resource-directory.md](./06-ivy-t10-school-resource-directory.md) for the deeper school-by-school map.
 
 ## School-Produced Source Priority
 
-- `T10/Ivy first`: start with Yale, Harvard, Penn, and Columbia, then use the strongest-fit materials from the rest of the top institutional band
+- `T10/Ivy first`: start with Yale, Harvard, Penn, and Columbia, then use the best-fit materials from the rest of the T10 band
 - `Stanford first among non-Ivy peers`: use Stanford before other peer schools when you need especially strong public research infrastructure for cases, dockets, Supreme Court materials, legislative history, or transactional research
 - `Then the rest of the peer T10 group`: Chicago, Virginia, Duke, NYU, Northwestern, Michigan
 - `If no strong school-produced source exists`: default to the official source of law or a strong public nonprofit source
 
 ## Best Institutional Hubs
 
-Start here when you want the strongest school-built research and writing infrastructure, not just an open textbook.
+Start here when you want school-built research and writing infrastructure, not just an open textbook.
 
 ### Yale
 
@@ -91,7 +91,7 @@ Use this when you need a substantial free casebook after orienting yourself with
 
 ## Faculty-Taught Free Courses (T10/Ivy)
 
-These are full courses and lecture series produced by `T10/Ivy` faculty and released free. Use them as a signature elite voice on top of the casebooks, not as a replacement for primary reading.
+These are full courses and lecture series produced by `T10/Ivy` faculty and released free. Use them as faculty perspective on top of the casebooks, not as a replacement for primary reading.
 
 - Akhil Amar (Yale) "Amarica's Constitution" podcast: <https://amaricasconstitution.podbean.com/>
 - Akhil Amar (Yale) faculty site and videos: <https://akhilamar.com/>

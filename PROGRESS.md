@@ -38,7 +38,7 @@ The main work now is depth and polish, not new architecture.
 - ✅ landmark case canon: [10-landmark-case-canon.md](./00-start-here/10-landmark-case-canon.md)
 - ✅ `Common Exam Traps` section added to all 13 doctrinal subject READMEs; `Landmark Cases` added to evidence
 - ✅ sourcing rule clarified: top-10 band governs teaching materials; primary law and tools use the best free host — see [05-top-10-school-priority-basis.md](./00-start-here/05-top-10-school-priority-basis.md)
-- ✅ added `T10/Ivy` faculty courses (Amar/Yale, Sandel/Harvard, Fisher/Harvard) and the nonprofit backbone (Cornell LII, CALI, NCC) to [03](./00-start-here/03-open-resource-library.md) and [06](./00-start-here/06-top-tier-school-resource-directory.md)
+- ✅ added `T10/Ivy` faculty courses (Amar/Yale, Sandel/Harvard, Fisher/Harvard) and the nonprofit backbone (Cornell LII, CALI, NCC) to [03](./00-start-here/03-open-resource-library.md) and [06](./00-start-here/06-ivy-t10-school-resource-directory.md)
 - ✅ fixed corruption in [01-how-to-use-this-plan.md](./00-start-here/01-how-to-use-this-plan.md) (leftover patch text and duplicated READMEs)
 
 ## Roadmap / Open Work
