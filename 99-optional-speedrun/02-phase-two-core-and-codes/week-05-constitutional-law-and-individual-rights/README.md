@@ -27,7 +27,9 @@ By the end of the week, you should be able to explain:
 Cases to know:
 
 - `Marbury v. Madison`
+- `United States v. Lopez`
 - `Brown v. Board of Education`
+- `Griswold v. Connecticut` through `Obergefell v. Hodges` and `Dobbs v. Jackson Women's Health Organization`
 - `New York Times v. Sullivan`
 - `Tinker v. Des Moines`
 - `Employment Division v. Smith`

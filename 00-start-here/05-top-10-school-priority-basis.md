@@ -56,6 +56,18 @@ It does `not` govern `primary law` or `core public tools`. For those, use the be
 
 Forcing a lower-quality top-10 source where a canonical nonprofit host is the standard would defeat the goal. Use the rule to pick `who teaches you`, and use the best free host to read `the law itself`.
 
+## Sourcing Diversity: Two Independent Sources
+
+The top-10 rule has a structural side effect worth naming: `Harvard H2O` is the only top-10 school that runs an open-casebook platform, so "T10 teaching materials first" quietly pushes nearly every subject onto a single host. A single point of failure for casebooks is a risk, not a feature.
+
+The fix is a diversity rule layered on top of the priority rule:
+
+- aim for `at least two independent sources` per subject — one primary casebook plus one alternate from a different host
+- the sanctioned second open-casebook platform is `CALI eLangdell Press`. It is a nonprofit consortium, not a top-10 school, but it is the only free, peer-quality open-casebook publisher that is genuinely independent of `H2O` — the same backbone exception already applies to `CALI`, `LII`, and `Oyez`
+- where `eLangdell` has no casebook for a subject (it lacks business associations, administrative law, professional responsibility, family law, and conflict of laws), the second source is the `primary-law spine` — the operative code, rules, or Restatement read alongside a non-Harvard research guide
+
+Each subject guide names its alternate under `Start Here`. The consolidated, verified map lives in [03-open-resource-library.md](./03-open-resource-library.md).
+
 ## Public Ranking References
 
 - The Daily Pennsylvanian summary: <https://www.thedp.com/article/2026/04/penn-carey-law-us-news-report-ranking-2026>

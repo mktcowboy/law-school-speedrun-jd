@@ -18,6 +18,7 @@ Professional responsibility becomes more meaningful once you can picture real li
 - ABA Model Rules portal: <https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/?lang=en>
 - ABA table of contents: <https://www.americanbar.org/content/aba-cms-dotorg/en/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_table_of_contents/>
 - Harvard-hosted H2O Professional Responsibility: <https://opencasebook.org/casebooks/15389-professional-responsibility/>
+- Alternate source (no general eLangdell professional-responsibility casebook): the ABA Model Rules above are the spine; pair them with the Duke Legal Ethics guide — <https://law.duke.edu/lib/research-guides/legal-ethics/>
 
 ## Read Especially
 

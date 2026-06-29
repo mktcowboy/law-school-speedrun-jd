@@ -18,6 +18,7 @@ Civil procedure teaches how a lawsuit exists at all: where it can be filed, what
 ## Start Here
 
 - Harvard H2O Civil Procedure 2024: <https://opencasebook.org/casebooks/9188-civil-procedure-2024/>
+- Alternate casebook (CALI eLangdell): `Computer-Aided Exercises in Civil Procedure, 7th Edition` — <https://www.cali.org/books/computer-aided-exercises-civil-procedure-7th-edition>
 - Official U.S. Courts rules page: <https://www.uscourts.gov/forms-rules/current-rules-practice-procedure/federal-rules-civil-procedure>
 - CourtListener for full opinions: <https://www.courtlistener.com/>
 

@@ -32,6 +32,15 @@ Use it to:
 - do capstone synthesis
 - prepare for the format of the exam or job transition ahead
 
+## Choose A Practice Direction
+
+By `3L` the work splits into two broad directions. Pick the one that matches the job you want and build your deliverables there — read the other for awareness.
+
+- [01-litigation-track.md](./01-litigation-track.md) — trial and appellate practice: procedure, evidence, motions, briefs, and trial simulation
+- [02-transactional-track.md](./02-transactional-track.md) — deal and advisory practice: entities, the UCC, drafting, and document sets
+
+Each track names the subjects to revisit, the drafting exercises and simulations to run, the research emphasis, and how the work reads to employers.
+
 ## Optional Compression Note
 
 If you want the strict sprint version, the concentrated capstone lives in:

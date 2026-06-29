@@ -21,6 +21,7 @@ This is not an elective skill. It is the operating system for every doctrinal co
 - CourtListener: <https://free.law/projects/courtlistener/>
 - Columbia legal writing resources: <https://www.law.columbia.edu/academics/experiential/legal-writing/writing-center/legal-writing-resources>
 - Indigo Book: <https://indigobook.github.io/>
+- Alternate free texts (CALI eLangdell): `Sources of American Law: An Introduction to Legal Research` — <https://www.cali.org/books/sources-american-law-introduction-legal-research> and `Legal Argumentation: Reasoning & Writing About the Law` — <https://www.cali.org/books/legal-argumentation-reasoning-writing-about-law>
 
 ## Core Practice
 

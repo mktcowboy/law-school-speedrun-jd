@@ -68,6 +68,10 @@ These are secondary to reading, but they keep the reading from evaporating.
 - comparisons between majority/minority rules
 - policy notes only when they help analysis
 
+## Marking A Subject Done
+
+Use one [subject progress checklist](../templates/subject-progress-checklist-template.md) per subject so "done" means something concrete. A subject is not finished because you read it once; it is finished when the reading, synthesis, writing, and canon-check boxes are all real.
+
 ## The Three Reading Modes
 
 ### Case mode
