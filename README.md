@@ -92,9 +92,10 @@ As of `June 2, 2026`:
 5. Review the sourcing rule in [00-start-here/05-top-10-school-priority-basis.md](./00-start-here/05-top-10-school-priority-basis.md).
 6. Use the school-by-school map in [00-start-here/06-ivy-t10-school-resource-directory.md](./00-start-here/06-ivy-t10-school-resource-directory.md) when you want more `Ivy/T10` source support.
 7. Use the reading system in [00-start-here/04-study-system-and-deliverables.md](./00-start-here/04-study-system-and-deliverables.md), and build the timed-writing loop from [00-start-here/09-assessment-and-exam-archive-method.md](./00-start-here/09-assessment-and-exam-archive-method.md).
-8. Work from [01-1l-foundation-year/README.md](./01-1l-foundation-year/README.md) and [01-1l-foundation-year/01-reading-sequence-and-free-sources.md](./01-1l-foundation-year/01-reading-sequence-and-free-sources.md) forward, checking coverage against [00-start-here/10-landmark-case-canon.md](./00-start-here/10-landmark-case-canon.md).
-9. Move to [02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md](./02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md) after your 1L pass is genuinely solid.
-10. Buy a book only if the free pass leaves a subject genuinely sticky.
+8. Use [00-start-here/12-elite-legal-mind-reading-note.md](./00-start-here/12-elite-legal-mind-reading-note.md) when you want the broader reading canon around legal reasoning, practice, jurisprudence, and institutions.
+9. Work from [01-1l-foundation-year/README.md](./01-1l-foundation-year/README.md) and [01-1l-foundation-year/01-reading-sequence-and-free-sources.md](./01-1l-foundation-year/01-reading-sequence-and-free-sources.md) forward, checking coverage against [00-start-here/10-landmark-case-canon.md](./00-start-here/10-landmark-case-canon.md).
+10. Move to [02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md](./02-2l-doctrinal-depth-and-codes/01-reading-sequence-and-free-sources.md) after your 1L pass is genuinely solid.
+11. Buy a book only if the free pass leaves a subject genuinely sticky.
 
 ## End State
 
