@@ -15,6 +15,7 @@ Property teaches how law allocates control, exclusion, use, possession, and titl
 ## Start Here
 
 - Harvard H2O Open Source Property: <https://opencasebook.org/casebooks/510-open-source-property/>
+- Alternate casebook (CALI eLangdell): `Property` (Volume 1) — <https://www.cali.org/books/property-volume-1>
 - CourtListener for full opinions: <https://www.courtlistener.com/>
 
 ## Landmark Cases

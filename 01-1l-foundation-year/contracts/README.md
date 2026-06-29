@@ -17,6 +17,7 @@ Contracts teaches enforceable exchange. It is where you learn offer, assent, con
 ## Start Here
 
 - Harvard H2O Contracts casebook: <https://opencasebook.org/casebooks/11568-contracts/>
+- Alternate casebook (CALI eLangdell): `Contract Doctrine, Theory & Practice` (Vol. 1) — <https://www.cali.org/books/contract-doctrine-theory-practice-volume-1>
 - Re-read the Restatement and statutory excerpts built into the casebook
 - Save deeper UCC detail for the later `2L` commercial-law pass
 

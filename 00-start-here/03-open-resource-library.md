@@ -89,6 +89,37 @@ Use this when you need a substantial free casebook after orienting yourself with
 - H2O featured casebooks: <https://opencasebook.org/featured/>
 - H2O help and search guidance: <https://about.opencasebook.org/>
 
+## Second-Source Map (eLangdell And Primary-Law)
+
+To avoid depending on `H2O` alone, each subject has a second source from an independent host. `CALI eLangdell Press` is the sanctioned second open-casebook platform; where it has no title, the second source is the primary-law spine. See the rule in [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md). All `eLangdell` titles are free PDF/ePub downloads.
+
+### 1L
+
+- Civil Procedure — `Computer-Aided Exercises in Civil Procedure, 7th Edition`: <https://www.cali.org/books/computer-aided-exercises-civil-procedure-7th-edition>
+- Torts — `Tort Law: A 21st-Century Approach`: <https://www.cali.org/books/tort-law-21st-century-approach>
+- Contracts — `Contract Doctrine, Theory & Practice` (Vol. 1): <https://www.cali.org/books/contract-doctrine-theory-practice-volume-1>
+- Property — `Property` (Volume 1): <https://www.cali.org/books/property-volume-1>
+- Criminal Law — `Criminal Law: An Integrated Approach`: <https://www.cali.org/books/criminal-law-integrated-approach>
+- Constitutional Law, structure — `Constitutional Law with a Twist: Less Is More`: <https://www.cali.org/books/constitutional-law-twist-less-more>
+- Constitutional Law, rights — `Constitutional Rights`: <https://www.cali.org/books/constitutional-rights> and `First Amendment: Cases, Controversies, and Contexts`: <https://www.cali.org/books/first-amendment-cases-controversies-and-contexts>
+- Legal Research and Writing — `Sources of American Law`: <https://www.cali.org/books/sources-american-law-introduction-legal-research> and `Legal Argumentation`: <https://www.cali.org/books/legal-argumentation-reasoning-writing-about-law>
+
+### 2L
+
+- Evidence — `Selected Materials on the Law of Evidence`: <https://www.cali.org/books/selected-materials-law-evidence>
+- Criminal Procedure — `Criminal Procedure: A Free Law School Casebook`: <https://www.cali.org/books/criminal-procedure-trachtenberg-alexander>
+- Commercial Law / UCC, sales — `Sales and Leases: A Problem-based Approach`: <https://www.cali.org/books/sales-and-leases-problem-based-approach>
+- Legislation and Regulation — `Statutory Law: A Course Source`: <https://www.cali.org/books/statutory-law-course-source>
+- Business Associations — primary-law spine: Delaware Code Title 8 plus the Duke Business Associations guide (no eLangdell title)
+- Administrative Law — primary-law spine: APA and eCFR plus the Duke Federal Administrative Law guide; companion `What Color is Your C.F.R.?`: <https://www.cali.org/books/what-color-your-cfr>
+- Professional Responsibility — primary-law spine: ABA Model Rules plus the Duke Legal Ethics guide (no eLangdell title)
+
+### Legacy MEE Subjects
+
+- Trusts and Estates — `The Law of Trusts`: <https://www.cali.org/books/law-trusts> and `Law of Wills`: <https://www.cali.org/books/law-wills>
+- Family Law — primary-law spine: the uniform family acts plus Wex (no eLangdell title)
+- Conflict of Laws — primary-law spine: the `Restatement (Second)` plus the cases (no eLangdell title)
+
 ## Faculty-Taught Free Courses (T10/Ivy)
 
 These are full courses and lecture series produced by `T10/Ivy` faculty and released free. Use them as faculty perspective on top of the casebooks, not as a replacement for primary reading.
@@ -218,6 +249,17 @@ Nonprofit and public-service standards for reading the law itself and checking d
 - Uniform Law Commission current UCC acts and amendments: <https://www.uniformlaws.org/acts/catalog/current/ucc>
 - State-enacted UCC text in your jurisdiction
 
+### Legislation And Regulation
+
+- Harvard Statutes guide: <https://guides.library.harvard.edu/law/statutes>
+- Penn statutory research guide: <https://law.upenn.libguides.com/researchfundamentals/statutes>
+- Stanford Federal Legislative History Research: <https://guides.law.stanford.edu/fedleghistory>
+- Harvard-hosted H2O Administrative Law (statutory interpretation and deference): <https://opencasebook.org/casebooks/8962-administrative-law/>
+- Cornell LII Wex for canons of construction: <https://www.law.cornell.edu/wex>
+- Cornell LII U.S. Code: <https://www.law.cornell.edu/uscode/text>
+- GovInfo: <https://www.govinfo.gov/>
+- CourtListener for full opinions: <https://www.courtlistener.com/>
+
 ### Administrative Law
 
 - Harvard-hosted H2O Administrative Law: <https://opencasebook.org/casebooks/8962-administrative-law/>
@@ -234,6 +276,19 @@ Nonprofit and public-service standards for reading the law itself and checking d
 - ABA table of contents: <https://www.americanbar.org/content/aba-cms-dotorg/en/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_table_of_contents/>
 - Harvard-hosted H2O Professional Responsibility: <https://opencasebook.org/casebooks/15389-professional-responsibility/>
 - Duke legal ethics guide: <https://law.duke.edu/lib/research-guides/legal-ethics/>
+
+### Legacy MEE And Upper-Level Subjects
+
+Tested on the `legacy MEE` but dropped from `NextGen` foundational coverage. Build only for a legacy or transition jurisdiction.
+
+- Harvard H2O to locate casebooks: <https://opencasebook.org/>
+- Harvard Statutes guide for state family and probate codes: <https://guides.library.harvard.edu/law/statutes>
+- Uniform Law Commission acts catalog (`UMDA`, `UPA`, `UIFSA`, `UCCJEA`, `UPC`, `UTC`): <https://www.uniformlaws.org/acts/catalog>
+- Cornell LII / Wex family law: <https://www.law.cornell.edu/wex/category/family_law>
+- Cornell LII / Wex conflict of laws: <https://www.law.cornell.edu/wex/conflict_of_laws>
+- Cornell LII / Wex for wills and trusts reference: <https://www.law.cornell.edu/wex>
+- Oyez: <https://www.oyez.org/>
+- CourtListener for full opinions: <https://www.courtlistener.com/>
 
 ## Primary Law And Official Rules
 

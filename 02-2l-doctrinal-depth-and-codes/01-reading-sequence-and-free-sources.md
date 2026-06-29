@@ -16,8 +16,9 @@ The working rule is:
 2. Criminal Procedure
 3. Business Associations
 4. Commercial Law, UCC, and Secured Transactions
-5. Administrative Law
-6. Professional Responsibility
+5. Legislation and Regulation
+6. Administrative Law
+7. Professional Responsibility
 
 ## Evidence
 
@@ -148,6 +149,38 @@ You can explain how entity choice, authority, fiduciary obligation, and Delaware
 
 You can move through a UCC problem by checking scope, definitions, operative rule, and then priority structure in that order.
 
+## Legislation And Regulation
+
+### Read In This Order
+
+1. Harvard Statutes guide: <https://guides.library.harvard.edu/law/statutes>
+2. Penn statutory-research guide: <https://law.upenn.libguides.com/researchfundamentals/statutes>
+3. Cornell LII / Wex for the canons of construction: <https://www.law.cornell.edu/wex>
+4. Stanford Federal Legislative History Research: <https://guides.law.stanford.edu/fedleghistory>
+5. Harvard-hosted H2O Administrative Law for the interpretation and deference doctrine: <https://opencasebook.org/casebooks/8962-administrative-law/>
+6. Primary statutes from Cornell LII U.S. Code: <https://www.law.cornell.edu/uscode/text>
+7. CourtListener for full opinions: <https://www.courtlistener.com/>
+
+### First-Pass Priorities
+
+- textualism, purposivism, and intentionalism
+- the language canons and the whole-act rule
+- the substantive canons: lenity, constitutional avoidance, federalism clear-statement
+- legislative history and its proper weight
+- the major-questions doctrine
+
+### Read Slowly
+
+- `Holy Trinity Church v. United States`
+- `TVA v. Hill`
+- `King v. Burwell`
+- `Bostock v. Clayton County`
+- `West Virginia v. EPA`
+
+### Good Stopping Point For A First Serious Pass
+
+You can read an unfamiliar statute, name the interpretive theory you are using, and pick the canon that resolves the ambiguity instead of guessing at purpose.
+
 ## Administrative Law
 
 ### Read In This Order
@@ -210,17 +243,22 @@ You can explain how a statute becomes agency action and how that action becomes 
 
 You can identify which professional-conduct rule governs before reducing the problem to instinct or vague fairness.
 
-## Common 2L Expansion Paths
+## Legacy MEE Subjects
 
-If you finish the core `2L` reading and want more, the traditional next subjects are:
+These are tested on the `legacy MEE` but dropped from `NextGen` foundational coverage. Each now has its own guide; build them if your jurisdiction is on the legacy or transition exam.
+
+- [family-law](./family-law/README.md)
+- [trusts-and-estates](./trusts-and-estates/README.md)
+- [conflict-of-laws](./conflict-of-laws/README.md)
+
+## Further Expansion Paths
+
+If you finish the core `2L` reading and the legacy subjects and want more, the traditional next subjects are:
 
 - remedies
-- family law
-- trusts and estates
 - federal courts
 - tax
 - bankruptcy
-- legislation and regulation
 
 Apply the same resource rule there:
 

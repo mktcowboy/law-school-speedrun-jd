@@ -47,9 +47,12 @@ Move into:
 - criminal procedure
 - business associations
 - commercial law and UCC
+- legislation and regulation
 - administrative law
 - professional responsibility
 - electives, journal, and summer-position strategy
+
+The `legacy MEE` bar subjects that `NextGen` drops — family law, trusts and estates, and conflict of laws — are built as flagged upper-level guides in [02-2l-doctrinal-depth-and-codes](./02-2l-doctrinal-depth-and-codes/README.md), for readers in legacy or transition jurisdictions.
 
 ### 3L practice, synthesis, and launch
 
@@ -65,6 +68,12 @@ Finish with:
 The accelerated version lives in [99-optional-speedrun/README.md](./99-optional-speedrun/README.md).
 
 Use that only if you already understand the goal of each subject and want a compression framework. The primary curriculum should come first.
+
+## Study By Goal Instead Of By Year
+
+The `1L -> 2L -> 3L` order is the default, not the only route. To study by destination — a bar-core run, a litigation or transactional path, or a constitutional-law deep dive — use [00-start-here/11-study-pathways.md](./00-start-here/11-study-pathways.md). Most subjects can also be started cold; each guide names any real prerequisite at the top.
+
+Every subject also carries a second, non-`H2O` casebook so no subject depends on a single host — see the [second-source map](./00-start-here/03-open-resource-library.md).
 
 ## Current Bar Note
 

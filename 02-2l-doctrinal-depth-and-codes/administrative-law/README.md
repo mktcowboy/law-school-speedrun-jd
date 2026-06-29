@@ -16,6 +16,7 @@ Administrative law is easier once you already know procedure, constitutional str
 ## Start Here
 
 - Harvard-hosted H2O Administrative Law: <https://opencasebook.org/casebooks/8962-administrative-law/>
+- Alternate source (no full eLangdell administrative-law casebook): run the second pass from the APA and eCFR below plus the Duke Federal Administrative Law guide — <https://law.duke.edu/lib/research-guides/federal-administrative-law/>; the eLangdell `What Color is Your C.F.R.?` — <https://www.cali.org/books/what-color-your-cfr> is a light regulatory companion
 - Penn The Regulatory Review: <https://www.theregreview.org/>
 - eCFR: <https://www.ecfr.gov/>
 - Federal Register: <https://www.federalregister.gov/>

@@ -16,6 +16,7 @@ Criminal procedure assumes you already understand criminal liability and can now
 ## Start Here
 
 - H2O Criminal Procedure: <https://opencasebook.org/casebooks/8116-criminal-procedure/>
+- Alternate casebook (CALI eLangdell): `Criminal Procedure: A Free Law School Casebook` — <https://www.cali.org/books/criminal-procedure-trachtenberg-alexander>
 - Congress.gov Constitution Annotated: <https://constitution.congress.gov/>
 - Oyez: <https://www.oyez.org/>
 - CourtListener for full opinions: <https://www.courtlistener.com/>

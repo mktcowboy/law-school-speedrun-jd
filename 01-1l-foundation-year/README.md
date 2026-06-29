@@ -30,6 +30,15 @@ If you want a traditional-but-practical flow, use:
 6. constitutional law
 7. legal research and writing throughout
 
+## Two Parallel Lanes
+
+A real `1L` runs two tracks at once. Keep them visibly parallel, not sequential:
+
+- `Doctrine lane` — civil procedure, torts, contracts, property, criminal law, and constitutional law. This is where you build case-reading fluency and common-law reasoning.
+- `Legal-research-and-writing lane` — runs the whole year alongside the doctrine. Every case you brief feeds a research-and-writing skill: finding controlling authority, synthesizing a rule, and writing it up in `IRAC` or memo form.
+
+Do not treat legal research and writing as a seventh subject to squeeze in last. It is the lane that turns the doctrine lane into usable work product. See [legal-research-and-writing](./legal-research-and-writing/README.md).
+
 ## Reading-First Strategy For 1L
 
 For each subject, use a four-step sequence:

@@ -17,6 +17,7 @@ Business associations is where organizational law, agency, governance, and fiduc
 ## Start Here
 
 - Harvard-hosted H2O Business Associations: <https://opencasebook.org/casebooks/15328-business-associations/>
+- Alternate source (no eLangdell business-associations casebook): run the second pass from the Delaware Code below plus the Duke Business Associations guide — <https://law.duke.edu/lib/research-guides/business-associations/>
 - Delaware Code Online, Title 8: <https://delcode.delaware.gov/title8/c001/>
 - Delaware Division of Corporations law page: <https://corp.delaware.gov/DElaw/>
 - Columbia CLS Blue Sky Blog: <https://clsbluesky.law.columbia.edu/>

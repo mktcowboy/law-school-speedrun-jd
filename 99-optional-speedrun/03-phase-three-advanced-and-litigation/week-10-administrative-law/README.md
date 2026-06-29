@@ -18,16 +18,19 @@ By the end of the week, you should be able to explain:
 
 - Harvard-hosted H2O Administrative Law: <https://opencasebook.org/casebooks/8962-administrative-law/>
 - Penn The Regulatory Review: <https://www.theregreview.org/>
+- Harvard Statutes guide and Stanford Federal Legislative History for the statutory-interpretation layer: <https://guides.library.harvard.edu/law/statutes> and <https://guides.law.stanford.edu/fedleghistory>
 - eCFR portal: <https://www.ecfr.gov/>
 - Federal Register: <https://www.federalregister.gov/>
 - GovInfo: <https://www.govinfo.gov/>
 
 Cases and concepts to know:
 
-- `Chevron` as historical background
-- `Skidmore`
+- `Loper Bright` (2024) — courts interpret statutes de novo; `Chevron` is overruled, so know it only as background
+- `Skidmore` — persuasive-weight deference
+- `West Virginia v. EPA` (2022) — the major-questions doctrine
 - arbitrary and capricious review
 - notice-and-comment rulemaking
+- statutory interpretation: textualism, purposivism, and the canons — the `leg-reg` companion to administrative law
 
 ## What To Build
 

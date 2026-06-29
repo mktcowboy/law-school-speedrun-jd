@@ -17,6 +17,7 @@ Evidence makes more sense once you already know how cases are built and argued. 
 
 - Official Federal Rules of Evidence through the U.S. Courts rules portal: <https://www.uscourts.gov/forms-rules/current-rules-practice-procedure>
 - Harvard-hosted H2O Federal Rules of Evidence: <https://opencasebook.org/casebooks/230-federal-rules-of-evidence/as-printable-html/>
+- Alternate casebook (CALI eLangdell): `Selected Materials on the Law of Evidence` — <https://www.cali.org/books/selected-materials-law-evidence>
 
 Read especially:
 

@@ -17,6 +17,7 @@ This is where many students learn to read statutes in earnest rather than leanin
 ## Start Here
 
 - Duke UCC research guide: <https://law.duke.edu/lib/research-guides/ucc/>
+- Alternate casebook for sales (CALI eLangdell): `Sales and Leases: A Problem-based Approach` — <https://www.cali.org/books/sales-and-leases-problem-based-approach>; for Article 9, the UCC text itself is the second source
 - Uniform Law Commission UCC page: <https://www.uniformlaws.org/ucc>
 - Uniform Law Commission current UCC acts and amendments: <https://www.uniformlaws.org/acts/catalog/current/ucc>
 - Your jurisdiction's enacted UCC text

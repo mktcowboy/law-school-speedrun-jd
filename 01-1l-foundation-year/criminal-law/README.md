@@ -16,6 +16,7 @@ Criminal law gives you the basic architecture of liability in the public-law con
 ## Start Here
 
 - Harvard H2O Criminal Law Spring 2021: <https://opencasebook.org/casebooks/2459-criminal-law-spring-2021/>
+- Alternate casebook (CALI eLangdell): `Criminal Law: An Integrated Approach` — <https://www.cali.org/books/criminal-law-integrated-approach>
 - Pull the underlying statute whenever a case turns on wording
 - CourtListener for full opinions: <https://www.courtlistener.com/>
 

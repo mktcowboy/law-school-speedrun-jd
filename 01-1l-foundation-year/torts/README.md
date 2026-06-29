@@ -18,6 +18,7 @@ Torts is the cleanest entry into common-law reasoning. It teaches how courts rea
 ## Start Here
 
 - Harvard H2O Torts!: <https://opencasebook.org/casebooks/2566-torts/>
+- Alternate casebook (CALI eLangdell): `Tort Law: A 21st-Century Approach` — <https://www.cali.org/books/tort-law-21st-century-approach>
 - CourtListener for full opinions: <https://www.courtlistener.com/>
 
 ## Landmark Cases

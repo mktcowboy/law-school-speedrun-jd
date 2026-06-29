@@ -14,8 +14,19 @@ Compared with `1L`, this part of the curriculum should feel less like learning t
 - criminal procedure
 - business associations
 - commercial law, UCC, and secured transactions
+- legislation and regulation
 - administrative law
 - professional responsibility
+
+`Constitutional Law II` — rights and the First Amendment — is also a `2L`-level continuation of the structure half you started in `1L`. Its reading lives with the `1L` [constitutional-law](../01-1l-foundation-year/constitutional-law/README.md) guide so the subject stays in one place; revisit the rights cases here once the codes are underway.
+
+## Legacy MEE And Upper-Level Subjects
+
+These are traditional upper-level bar subjects that the `NextGen UBE` drops from foundational testing but the `legacy MEE` still tests. They are not part of the `NextGen` core sequence above. Study them if your target jurisdiction is on the legacy or transition exam, or if you want the doctrine for practice — confirm your jurisdiction first via [bar-bridge-and-career-launch](../03-3l-practice-synthesis-and-launch/bar-bridge-and-career-launch/README.md).
+
+- [family-law](./family-law/README.md)
+- [trusts-and-estates](./trusts-and-estates/README.md)
+- [conflict-of-laws](./conflict-of-laws/README.md)
 
 ## What Changes In 2L
 
