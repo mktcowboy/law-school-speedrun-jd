@@ -26,14 +26,16 @@ Administrative law is easier once you already know procedure, constitutional str
 
 ## Landmark Concepts
 
+For the full linked list, see the [administrative law canon](../../00-start-here/assessment/landmark-case-canon.md#administrative-law).
+
 - notice-and-comment rulemaking
 - arbitrary and capricious review
-- `Chevron` as historical background
-- `Skidmore`
+- [`Chevron`](https://www.courtlistener.com/?q=%22Chevron+v.+NRDC%22&type=o&order_by=score+desc) as historical background
+- [`Skidmore`](https://www.courtlistener.com/?q=%22Skidmore+v.+Swift%22&type=o&order_by=score+desc)
 
 ## Common Exam Traps
 
-- do not cite `Chevron` as good law — after `Loper Bright` (2024), courts review statutory questions de novo, giving agency views `Skidmore` weight where persuasive
+- do not cite [`Chevron`](https://www.courtlistener.com/?q=%22Chevron+v.+NRDC%22&type=o&order_by=score+desc) as good law — after [`Loper Bright`](https://www.courtlistener.com/?q=%22Loper+Bright+Enterprises+v.+Raimondo%22&type=o&order_by=score+desc) (2024), courts review statutory questions de novo, giving agency views [`Skidmore`](https://www.courtlistener.com/?q=%22Skidmore+v.+Swift%22&type=o&order_by=score+desc) weight where persuasive
 - distinguish legislative rules (notice-and-comment) from interpretive rules and guidance
 - match the standard of review to the action: arbitrary-and-capricious, substantial evidence, or de novo
 - clear standing, ripeness, finality, and exhaustion before reaching reviewability

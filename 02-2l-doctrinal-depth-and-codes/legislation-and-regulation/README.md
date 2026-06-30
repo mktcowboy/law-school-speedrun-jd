@@ -16,7 +16,7 @@ Many `T10` schools teach this in `1L` (Harvard has required it of first-years si
 - the substantive canons: rule of lenity, constitutional avoidance, federalism clear-statement
 - legislative history and its proper (and contested) weight
 - the major-questions doctrine and clear-statement rules
-- how interpretation now relates to agency deference after `Loper Bright`
+- how interpretation now relates to agency deference after [`Loper Bright`](https://www.courtlistener.com/?q=%22Loper+Bright+Enterprises+v.+Raimondo%22&type=o&order_by=score+desc)
 
 ## Start Here
 
@@ -34,11 +34,13 @@ Teaching materials come from the `T10/Ivy` band; read the statutes themselves fr
 
 ## Landmark Cases
 
-- `Holy Trinity Church v. United States` — purposivism: spirit over letter
-- `TVA v. Hill` — plain-meaning textualism even at high cost
-- `King v. Burwell` — statutory context and scheme over an isolated phrase
-- `Bostock v. Clayton County` — textualism applied to Title VII
-- `West Virginia v. EPA` — the major-questions doctrine as a clear-statement rule
+For the full linked list, see the [legislation and statutory interpretation canon](../../00-start-here/assessment/landmark-case-canon.md#legislation-and-statutory-interpretation).
+
+- [`Holy Trinity Church v. United States`](https://www.courtlistener.com/?q=%22Holy+Trinity+Church+v.+United+States%22&type=o&order_by=score+desc) — purposivism: spirit over letter
+- [`TVA v. Hill`](https://www.courtlistener.com/?q=%22TVA+v.+Hill%22&type=o&order_by=score+desc) — plain-meaning textualism even at high cost
+- [`King v. Burwell`](https://www.courtlistener.com/?q=%22King+v.+Burwell%22&type=o&order_by=score+desc) — statutory context and scheme over an isolated phrase
+- [`Bostock v. Clayton County`](https://www.courtlistener.com/?q=%22Bostock+v.+Clayton+County%22&type=o&order_by=score+desc) — textualism applied to Title VII
+- [`West Virginia v. EPA`](https://www.courtlistener.com/?q=%22West+Virginia+v.+EPA%22&type=o&order_by=score+desc) — the major-questions doctrine as a clear-statement rule
 
 ## Common Exam Traps
 
@@ -46,7 +48,7 @@ Teaching materials come from the `T10/Ivy` band; read the statutes themselves fr
 - name the interpretive theory you are applying; do not silently mix textualism and purposivism
 - match each canon to the ambiguity it resolves — canons cut both ways, so say why yours controls
 - keep a substantive canon (lenity, avoidance) distinct from a language canon (`ejusdem generis`)
-- after `Loper Bright` (2024), courts interpret statutes de novo; do not resolve ambiguity by deferring to the agency — give agency views `Skidmore` weight only where persuasive
+- after [`Loper Bright`](https://www.courtlistener.com/?q=%22Loper+Bright+Enterprises+v.+Raimondo%22&type=o&order_by=score+desc) (2024), courts interpret statutes de novo; do not resolve ambiguity by deferring to the agency — give agency views [`Skidmore`](https://www.courtlistener.com/?q=%22Skidmore+v.+Swift%22&type=o&order_by=score+desc) weight only where persuasive
 
 ## Best Supplement If You Need One
 

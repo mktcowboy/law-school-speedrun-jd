@@ -25,15 +25,17 @@ Criminal procedure assumes you already understand criminal liability and can now
 
 ## Landmark Cases
 
-- `Mapp v. Ohio`
-- `Terry v. Ohio`
-- `Katz v. United States`
-- `Miranda v. Arizona`
-- `Gideon v. Wainwright`
+For the full linked list, see the [criminal procedure canon](../../00-start-here/assessment/landmark-case-canon.md#criminal-procedure).
+
+- [`Mapp v. Ohio`](https://www.courtlistener.com/?q=%22Mapp+v.+Ohio%22&type=o&order_by=score+desc)
+- [`Terry v. Ohio`](https://www.courtlistener.com/?q=%22Terry+v.+Ohio%22&type=o&order_by=score+desc)
+- [`Katz v. United States`](https://www.courtlistener.com/?q=%22Katz+v.+United+States%22&type=o&order_by=score+desc)
+- [`Miranda v. Arizona`](https://www.courtlistener.com/?q=%22Miranda+v.+Arizona%22&type=o&order_by=score+desc)
+- [`Gideon v. Wainwright`](https://www.courtlistener.com/?q=%22Gideon+v.+Wainwright%22&type=o&order_by=score+desc)
 
 ## Common Exam Traps
 
-- answer the threshold "search or seizure / reasonable expectation of privacy" question (`Katz`) before any warrant analysis
+- answer the threshold "search or seizure / reasonable expectation of privacy" question ([`Katz`](https://www.courtlistener.com/?q=%22Katz+v.+United+States%22&type=o&order_by=score+desc)) before any warrant analysis
 - match the facts to each warrant exception's specific scope rather than listing exceptions generically
 - keep Miranda (Fifth Amendment, custodial interrogation) distinct from the Sixth Amendment right to counsel (offense-specific, post-charge)
 - know the fruit-of-the-poisonous-tree exceptions: independent source, inevitable discovery, attenuation
