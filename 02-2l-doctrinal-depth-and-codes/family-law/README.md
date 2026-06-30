@@ -1,5 +1,7 @@
 # Family Law
 
+Back to the [subject index](../../SUBJECTS.md#legacy-mee-and-upper-level-subjects).
+
 ## Why It Is Here
 
 Family law is a `legacy MEE` bar subject that the `NextGen UBE` drops from foundational testing. It is not part of the `NextGen` core, so it sits outside the main `2L` sequence. Build it if your target jurisdiction still uses the legacy exam or is in transition, or if you want the doctrine for practice. Confirm your jurisdiction first — see [bar-bridge-and-career-launch](../../03-3l-practice-synthesis-and-launch/bar-bridge-and-career-launch/README.md).
@@ -30,7 +32,7 @@ Teaching from the `T10/Ivy` band; primary law from the best free host.
 
 ## Landmark Cases
 
-These overlap the constitutional-rights canon; see [00-start-here/10-landmark-case-canon.md](../../00-start-here/10-landmark-case-canon.md).
+These overlap the constitutional-rights canon; see [landmark case canon](../../00-start-here/assessment/landmark-case-canon.md).
 
 - `Loving v. Virginia` — the right to marry
 - `Obergefell v. Hodges` — same-sex marriage

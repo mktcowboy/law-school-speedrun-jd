@@ -1,5 +1,7 @@
 # Contracts
 
+Back to the [subject index](../../SUBJECTS.md#core-1l-subjects).
+
 ## Why It Belongs In 1L
 
 Contracts teaches enforceable exchange. It is where you learn offer, assent, consideration, remedies, and how private ordering becomes legal obligation.

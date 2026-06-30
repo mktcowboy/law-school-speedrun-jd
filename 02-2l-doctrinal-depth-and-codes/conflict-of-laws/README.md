@@ -1,5 +1,7 @@
 # Conflict Of Laws
 
+Back to the [subject index](../../SUBJECTS.md#legacy-mee-and-upper-level-subjects).
+
 ## Why It Is Here
 
 Conflict of laws — choice of law, jurisdiction, and the recognition of judgments across state lines — is a `legacy MEE` bar subject that the `NextGen UBE` drops from foundational testing. It also runs underneath `civil procedure` (`Erie`) and `constitutional law` (Full Faith and Credit). Build it for a legacy or transition jurisdiction, or to deepen procedure. Confirm your jurisdiction first.

@@ -1,5 +1,7 @@
 # Criminal Law
 
+Back to the [subject index](../../SUBJECTS.md#core-1l-subjects).
+
 ## Why It Belongs In 1L
 
 Criminal law gives you the basic architecture of liability in the public-law context: prohibited act, mental state, causation, and defenses.

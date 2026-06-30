@@ -29,8 +29,8 @@ Use the traditional curriculum first:
 - [01-1l-foundation-year](../01-1l-foundation-year/README.md)
 - [02-2l-doctrinal-depth-and-codes](../02-2l-doctrinal-depth-and-codes/README.md)
 - [03-3l-practice-synthesis-and-launch](../03-3l-practice-synthesis-and-launch/README.md)
-- [00-start-here/03-open-resource-library.md](../00-start-here/03-open-resource-library.md)
-- [00-start-here/05-top-10-school-priority-basis.md](../00-start-here/05-top-10-school-priority-basis.md)
+- [open resource library](../00-start-here/resources/open-resource-library.md)
+- [source priority rule](../00-start-here/resources/source-priority-rule.md)
 
 Then use this speedrun folder if you want:
 

@@ -1,5 +1,7 @@
 # Legislation And Regulation
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why It Belongs In 2L
 
 `1L` teaches you to reason from cases. The rest of law is statutes. Legislation and regulation — often called `leg-reg` — is the bridge: how a statute is made, how courts read it, and how it becomes enforceable regulation. It is the explicit skill behind every code-driven `2L` subject, from the UCC to evidence to administrative law.

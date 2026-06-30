@@ -1,5 +1,7 @@
 # Trial Advocacy And Motion Practice
 
+Back to the [subject index](../../SUBJECTS.md#3l-practice-and-launch).
+
 ## Why It Belongs In 3L
 
 This is where evidence, procedure, writing, and strategy finally converge in a realistic way.

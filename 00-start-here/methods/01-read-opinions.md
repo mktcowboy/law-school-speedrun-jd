@@ -65,4 +65,4 @@ If you cannot produce those three things, run the second pass again.
 
 ## Next
 
-Turn this into a repeatable artifact in [02-case-briefing-and-rule-synthesis.md](./02-case-briefing-and-rule-synthesis.md).
+Turn this into a repeatable artifact in [brief cases and synthesize rules](./02-brief-cases-and-synthesize-rules.md).

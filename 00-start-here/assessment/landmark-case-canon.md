@@ -171,11 +171,11 @@ These anchor the `legislation and regulation` guide. They show the live fight be
 
 ## Professional Responsibility
 
-Professional responsibility is rule-driven rather than case-driven. Anchor on the `ABA Model Rules` themselves — especially `1.1`, `1.6`, `1.7`, `1.9`, `3.3`, and `4.1` — rather than a case canon. See [02-2l-doctrinal-depth-and-codes/professional-responsibility/README.md](../02-2l-doctrinal-depth-and-codes/professional-responsibility/README.md).
+Professional responsibility is rule-driven rather than case-driven. Anchor on the `ABA Model Rules` themselves — especially `1.1`, `1.6`, `1.7`, `1.9`, `3.3`, and `4.1` — rather than a case canon. See [02-2l-doctrinal-depth-and-codes/professional-responsibility/README.md](../../02-2l-doctrinal-depth-and-codes/professional-responsibility/README.md).
 
 ## Family Law
 
-A `legacy MEE` subject, mostly state law over a constitutional floor. The rights cases overlap Constitutional Law II. See [02-2l-doctrinal-depth-and-codes/family-law/README.md](../02-2l-doctrinal-depth-and-codes/family-law/README.md).
+A `legacy MEE` subject, mostly state law over a constitutional floor. The rights cases overlap Constitutional Law II. See [02-2l-doctrinal-depth-and-codes/family-law/README.md](../../02-2l-doctrinal-depth-and-codes/family-law/README.md).
 
 - `Loving v. Virginia` — the right to marry
 - `Obergefell v. Hodges` — same-sex marriage
@@ -185,11 +185,11 @@ A `legacy MEE` subject, mostly state law over a constitutional floor. The rights
 
 ## Trusts And Estates
 
-A `legacy MEE` subject that is code-anchored rather than case-driven. Anchor on the `Uniform Probate Code` and `Uniform Trust Code`, with your state's variations, rather than a case canon — and on the future-interests and `Rule Against Perpetuities` material shared with property. See [02-2l-doctrinal-depth-and-codes/trusts-and-estates/README.md](../02-2l-doctrinal-depth-and-codes/trusts-and-estates/README.md).
+A `legacy MEE` subject that is code-anchored rather than case-driven. Anchor on the `Uniform Probate Code` and `Uniform Trust Code`, with your state's variations, rather than a case canon — and on the future-interests and `Rule Against Perpetuities` material shared with property. See [02-2l-doctrinal-depth-and-codes/trusts-and-estates/README.md](../../02-2l-doctrinal-depth-and-codes/trusts-and-estates/README.md).
 
 ## Conflict Of Laws
 
-A `legacy MEE` subject that also runs underneath civil procedure and Full Faith and Credit. See [02-2l-doctrinal-depth-and-codes/conflict-of-laws/README.md](../02-2l-doctrinal-depth-and-codes/conflict-of-laws/README.md).
+A `legacy MEE` subject that also runs underneath civil procedure and Full Faith and Credit. See [02-2l-doctrinal-depth-and-codes/conflict-of-laws/README.md](../../02-2l-doctrinal-depth-and-codes/conflict-of-laws/README.md).
 
 - `Erie R. Co. v. Tompkins` — state substantive law in federal diversity cases
 - `Klaxon Co. v. Stentor Electric` — a federal court applies the forum state's choice-of-law rules

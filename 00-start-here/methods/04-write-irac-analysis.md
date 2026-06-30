@@ -51,4 +51,4 @@ A fact pattern is a list of triggers. Your attack outline tells you what each tr
 
 ## Next
 
-Practice this against real questions and model answers using [00-start-here/09-assessment-and-exam-archive-method.md](../00-start-here/09-assessment-and-exam-archive-method.md).
+Practice this against real questions and model answers using [assessment and exam archive method](../assessment/exam-archive-method.md).

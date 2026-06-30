@@ -1,5 +1,7 @@
 # Civil Procedure
 
+Back to the [subject index](../../SUBJECTS.md#core-1l-subjects).
+
 ## Why It Belongs In 1L
 
 Civil procedure teaches how a lawsuit exists at all: where it can be filed, what must be pleaded, how parties get information, and how cases end before trial or at trial.

@@ -1,5 +1,7 @@
 # Commercial Law, UCC, And Secured Transactions
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why It Belongs In 2L
 
 This is where many students learn to read statutes in earnest rather than leaning on common-law opinions alone.

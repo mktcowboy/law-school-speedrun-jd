@@ -1,5 +1,7 @@
 # Clinics, Externships, And Practice Systems
 
+Back to the [subject index](../../SUBJECTS.md#3l-practice-and-launch).
+
 ## Why It Belongs In 3L
 
 By `3L`, you should stop studying law as only a library subject. You should simulate or enter actual practice systems.

@@ -1,5 +1,7 @@
 # Evidence
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why It Belongs In 2L
 
 Evidence makes more sense once you already know how cases are built and argued. It is doctrine plus courtroom filtering.

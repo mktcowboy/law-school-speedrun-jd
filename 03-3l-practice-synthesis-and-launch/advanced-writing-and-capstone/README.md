@@ -1,5 +1,7 @@
 # Advanced Writing And Capstone
 
+Back to the [subject index](../../SUBJECTS.md#3l-practice-and-launch).
+
 ## Why It Belongs In 3L
 
 Final-stage legal training should produce writing that is cleaner, shorter, and more strategic than 1L memo work.

@@ -1,6 +1,6 @@
 # Subject Progress Checklist Template
 
-One per subject. Mark a subject `done` only when every box is real, not aspirational. Pair this with the [study system](../00-start-here/04-study-system-and-deliverables.md) and the [landmark case canon](../00-start-here/10-landmark-case-canon.md).
+One per subject. Mark a subject `done` only when every box is real, not aspirational. Pair this with the [study system](../00-start-here/resources/study-system-and-deliverables.md) and the [landmark case canon](../00-start-here/assessment/landmark-case-canon.md).
 
 ## Subject
 

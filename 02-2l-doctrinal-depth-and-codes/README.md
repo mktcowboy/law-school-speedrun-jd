@@ -10,13 +10,15 @@ Compared with `1L`, this part of the curriculum should feel less like learning t
 
 ## Typical 2L Subjects
 
-- evidence
-- criminal procedure
-- business associations
-- commercial law, UCC, and secured transactions
-- legislation and regulation
-- administrative law
-- professional responsibility
+- [evidence](./evidence/README.md)
+- [criminal procedure](./criminal-procedure/README.md)
+- [business associations](./business-associations/README.md)
+- [commercial law, UCC, and secured transactions](./commercial-law-ucc-and-secured-transactions/README.md)
+- [legislation and regulation](./legislation-and-regulation/README.md)
+- [administrative law](./administrative-law/README.md)
+- [professional responsibility](./professional-responsibility/README.md)
+
+For a one-subject jump table with prerequisites, first goals, and cross-links, use the root [subject index](../SUBJECTS.md#core-2l-subjects).
 
 `Constitutional Law II` — rights and the First Amendment — is also a `2L`-level continuation of the structure half you started in `1L`. Its reading lives with the `1L` [constitutional-law](../01-1l-foundation-year/constitutional-law/README.md) guide so the subject stays in one place; revisit the rights cases here once the codes are underway.
 
@@ -27,6 +29,8 @@ These are traditional upper-level bar subjects that the `NextGen UBE` drops from
 - [family-law](./family-law/README.md)
 - [trusts-and-estates](./trusts-and-estates/README.md)
 - [conflict-of-laws](./conflict-of-laws/README.md)
+
+The root [subject index](../SUBJECTS.md#legacy-mee-and-upper-level-subjects) keeps these separate from the `NextGen` core.
 
 ## What Changes In 2L
 
@@ -63,6 +67,8 @@ Use the open materials first. Buy a supplement only when a subject is genuinely 
 ## Detailed Reading Guide
 
 Use [01-reading-sequence-and-free-sources.md](./01-reading-sequence-and-free-sources.md) for the reading order, source stack, and first-pass goals for each major `2L` subject.
+
+If you are choosing one subject at a time, pair this reading guide with the [subject index](../SUBJECTS.md).
 
 ## Optional Compression Note
 

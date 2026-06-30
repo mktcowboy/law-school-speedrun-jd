@@ -1,5 +1,7 @@
 # Torts
 
+Back to the [subject index](../../SUBJECTS.md#core-1l-subjects).
+
 ## Why It Belongs In 1L
 
 Torts is the cleanest entry into common-law reasoning. It teaches how courts reason from facts to standards, duties, liability, and defenses.
