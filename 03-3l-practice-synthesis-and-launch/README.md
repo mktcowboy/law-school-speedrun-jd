@@ -8,11 +8,13 @@ It should still be possible to do most of this with free materials plus your own
 
 ## Typical 3L Priorities
 
-- clinics and externships
-- trial advocacy and drafting
-- advanced seminars or capstones
-- bar-aligned synthesis
-- job transition and practice readiness
+- [clinics and externships](./clinics-externships-and-practice-systems/README.md)
+- [trial advocacy and drafting](./trial-advocacy-and-motion-practice/README.md)
+- [advanced seminars or capstones](./advanced-writing-and-capstone/README.md)
+- [bar-aligned synthesis](./bar-bridge-and-career-launch/README.md)
+- [job transition and practice readiness](./bar-bridge-and-career-launch/README.md)
+
+For a one-area jump table with first work-product goals, use the root [subject index](../SUBJECTS.md#3l-practice-and-launch).
 
 ## What 3L Should Produce
 
@@ -40,6 +42,8 @@ By `3L` the work splits into two broad directions. Pick the one that matches the
 - [02-transactional-track.md](./02-transactional-track.md) — deal and advisory practice: entities, the UCC, drafting, and document sets
 
 Each track names the subjects to revisit, the drafting exercises and simulations to run, the research emphasis, and how the work reads to employers.
+
+The [subject index](../SUBJECTS.md#3l-practice-and-launch) also links these tracks alongside the individual `3L` practice guides.
 
 ## Optional Compression Note
 

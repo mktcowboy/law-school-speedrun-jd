@@ -1,5 +1,7 @@
 # Professional Responsibility
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why It Belongs In 2L
 
 Professional responsibility becomes more meaningful once you can picture real litigation, clients, business entities, and research workflows.

@@ -1,5 +1,7 @@
 # Property
 
+Back to the [subject index](../../SUBJECTS.md#core-1l-subjects).
+
 ## Why It Belongs In 1L
 
 Property teaches how law allocates control, exclusion, use, possession, and title. It introduces vocabulary that shows up everywhere else.

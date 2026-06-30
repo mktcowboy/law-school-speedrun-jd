@@ -1,5 +1,7 @@
 # Administrative Law
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why It Belongs In 2L
 
 Administrative law is easier once you already know procedure, constitutional structure, and statutory reading.

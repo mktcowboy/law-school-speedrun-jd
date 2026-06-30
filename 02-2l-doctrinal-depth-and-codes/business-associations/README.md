@@ -1,5 +1,7 @@
 # Business Associations
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why It Belongs In 2L
 
 Business associations is where organizational law, agency, governance, and fiduciary duty start to matter in a more applied way.

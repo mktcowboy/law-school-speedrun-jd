@@ -2,7 +2,7 @@
 
 This curriculum is `free-first`. Commercial supplements are `precision tools`, not the foundation. This file makes that rule explicit so buying a book is a deliberate decision, not a reflex.
 
-See [02-books-and-supplies.md](./02-books-and-supplies.md) for the broader materials list.
+See [books and supplies](./books-and-supplies.md) for the broader materials list.
 
 ## The Rule
 
@@ -51,7 +51,7 @@ Before buying, the free stack already covers most needs:
 - `CALI` lessons and `eLangdell` open casebooks for guided practice
 - the primary `rule`, `statute`, or `restatement` text the casebook excerpts
 
-These are listed in [03-open-resource-library.md](./03-open-resource-library.md).
+These are listed in [open resource library](./open-resource-library.md).
 
 ## Bottom Line
 

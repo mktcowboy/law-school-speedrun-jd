@@ -36,7 +36,7 @@ The `error log` is the engine. A miss you record and re-test is worth more than 
 
 ## Writing Under Time
 
-Use the method in [00-pre-1l-methods-and-mindset/04-how-to-write-short-irac-analysis.md](../00-pre-1l-methods-and-mindset/04-how-to-write-short-irac-analysis.md):
+Use the method in [write short IRAC analysis](../methods/04-write-irac-analysis.md):
 
 - budget time per question first
 - spot and order issues before writing
@@ -63,5 +63,5 @@ Score the `process`, not just the bottom line.
 
 ## Connect To The Plan
 
-- feeds the deliverables in [04-study-system-and-deliverables.md](./04-study-system-and-deliverables.md)
-- escalates into the bar-format work in [03-3l-practice-synthesis-and-launch/bar-bridge-and-career-launch/README.md](../03-3l-practice-synthesis-and-launch/bar-bridge-and-career-launch/README.md)
+- feeds the deliverables in [study system and deliverables](../resources/study-system-and-deliverables.md)
+- escalates into the bar-format work in [03-3l-practice-synthesis-and-launch/bar-bridge-and-career-launch/README.md](../../03-3l-practice-synthesis-and-launch/bar-bridge-and-career-launch/README.md)

@@ -19,19 +19,19 @@ These works show what lawyers actually do under pressure: build records, shape l
 
 - Focus: first-year legal education, Socratic pressure, the psychology of elite academic sorting, and the way law school changes how students read conflict.
 - Best use: read early, before or during the methods bridge.
-- Pair with: [00-pre-1l-methods-and-mindset](../00-pre-1l-methods-and-mindset/README.md).
+- Pair with: [methods bridge](../methods/README.md).
 
 ### A Civil Action, Jonathan Harr
 
 - Focus: toxic-tort litigation, discovery, depositions, settlement pressure, expert strategy, and the financial reality of civil litigation.
 - Best use: read before or during civil procedure and torts.
-- Pair with: [civil-procedure](../01-1l-foundation-year/civil-procedure/README.md) and [torts](../01-1l-foundation-year/torts/README.md).
+- Pair with: [civil-procedure](../../01-1l-foundation-year/civil-procedure/README.md) and [torts](../../01-1l-foundation-year/torts/README.md).
 
 ### The Nine: Inside the Secret World of the Supreme Court, Jeffrey Toobin
 
 - Focus: the Supreme Court as an institution, judicial personalities, internal negotiation, and the relationship between law and high-level policy.
 - Best use: read alongside constitutional law, especially when moving from doctrine to institutional behavior.
-- Pair with: [constitutional-law](../01-1l-foundation-year/constitutional-law/README.md).
+- Pair with: [constitutional-law](../../01-1l-foundation-year/constitutional-law/README.md).
 
 ## Thinking Like A Lawyer
 
@@ -41,19 +41,19 @@ These books train the machinery that matters most in law school: analogical reas
 
 - Focus: precedent, analogy, legal categories, and how rules evolve as courts apply old doctrines to new facts.
 - Best use: read early, then reread after your first serious case-reading pass.
-- Pair with: [01-how-to-read-a-legal-opinion](../00-pre-1l-methods-and-mindset/01-how-to-read-a-legal-opinion.md).
+- Pair with: [read opinions](../methods/01-read-opinions.md).
 
 ### Getting To Maybe, Richard Michael Fischl And Jeremy Paul
 
 - Focus: law-school exam reasoning, issue spotting, ambiguity, and why strong answers often turn on tension rather than a single "right" answer.
 - Best use: read before timed practice begins in earnest.
-- Pair with: [09-assessment-and-exam-archive-method](./09-assessment-and-exam-archive-method.md).
+- Pair with: [assessment and exam archive method](../assessment/exam-archive-method.md).
 
 ### Making Your Case, Antonin Scalia And Bryan A. Garner
 
 - Focus: judicial persuasion, argument structure, textual interpretation, and clear advocacy.
 - Best use: read when legal writing moves from basic IRAC into motion, appellate, or judge-facing work.
-- Pair with: [legal-research-and-writing](../01-1l-foundation-year/legal-research-and-writing/README.md) and [advanced-writing-and-capstone](../03-3l-practice-synthesis-and-launch/advanced-writing-and-capstone/README.md).
+- Pair with: [legal-research-and-writing](../../01-1l-foundation-year/legal-research-and-writing/README.md) and [advanced-writing-and-capstone](../../03-3l-practice-synthesis-and-launch/advanced-writing-and-capstone/README.md).
 
 ## Heavyweight Foundations
 
@@ -63,19 +63,19 @@ These works supply deeper jurisprudential and economic frameworks. They are valu
 
 - Focus: legal realism, historical development, and the idea that law changes through experience, policy, and social need rather than pure deduction.
 - Best use: read after the first 1L pass, especially after torts, contracts, and property.
-- Pair with: [01-1l-foundation-year](../01-1l-foundation-year/README.md).
+- Pair with: [01-1l-foundation-year](../../01-1l-foundation-year/README.md).
 
 ### Economic Analysis Of Law, Richard A. Posner
 
 - Focus: law and economics, efficiency, incentives, resource allocation, and the economic logic behind rules.
 - Best use: read selectively during business associations, commercial law, and corporate or transactional study.
-- Pair with: [business-associations](../02-2l-doctrinal-depth-and-codes/business-associations/README.md) and [commercial-law-ucc-and-secured-transactions](../02-2l-doctrinal-depth-and-codes/commercial-law-ucc-and-secured-transactions/README.md).
+- Pair with: [business-associations](../../02-2l-doctrinal-depth-and-codes/business-associations/README.md) and [commercial-law-ucc-and-secured-transactions](../../02-2l-doctrinal-depth-and-codes/commercial-law-ucc-and-secured-transactions/README.md).
 
 ### The Concept Of Law, H.L.A. Hart
 
 - Focus: jurisprudence, legal positivism, rules, authority, and what makes a legal system a legal system.
 - Best use: read after constitutional law or legislation and regulation, when questions about authority and rule recognition start to feel concrete.
-- Pair with: [legislation-and-regulation](../02-2l-doctrinal-depth-and-codes/legislation-and-regulation/README.md).
+- Pair with: [legislation-and-regulation](../../02-2l-doctrinal-depth-and-codes/legislation-and-regulation/README.md).
 
 ## Industry Landscape
 

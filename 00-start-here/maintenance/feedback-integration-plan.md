@@ -15,12 +15,12 @@ At the same time, the repo can absorb several of the suggestions in a way that m
 
 Updated `June 10, 2026`. The following items from this plan are now built:
 
-- ✅ pre-1L methods bridge: [00-pre-1l-methods-and-mindset](../00-pre-1l-methods-and-mindset/README.md)
-- ✅ supplement policy and pairings: [08-supplement-policy-and-pairings.md](./08-supplement-policy-and-pairings.md)
-- ✅ assessment and exam-archive method: [09-assessment-and-exam-archive-method.md](./09-assessment-and-exam-archive-method.md)
-- ✅ landmark case canon (new): [10-landmark-case-canon.md](./10-landmark-case-canon.md)
+- ✅ pre-1L methods bridge: [methods bridge](../methods/README.md)
+- ✅ supplement policy and pairings: [supplement policy and pairings](../resources/supplement-policy-and-pairings.md)
+- ✅ assessment and exam-archive method: [assessment and exam archive method](../assessment/exam-archive-method.md)
+- ✅ landmark case canon (new): [landmark case canon](../assessment/landmark-case-canon.md)
 - ✅ subject READMEs standardized with a `Common Exam Traps` section
-- ✅ sourcing rule clarified for primary law and tools in [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md)
+- ✅ sourcing rule clarified for primary law and tools in [source priority rule](../resources/source-priority-rule.md)
 - ✅ added T10/Ivy faculty courses (Amar, Sandel, Fisher) and the nonprofit backbone (Cornell LII, CALI, NCC) to the resource directory
 
 Still open:
@@ -39,7 +39,7 @@ Several items are already partly present:
 - `legal research and writing` already exists in `01-1l-foundation-year`
 - `evidence`, `criminal procedure`, `business associations`, `administrative law`, and `professional responsibility` already exist in `02-2l-doctrinal-depth-and-codes`
 - `litigation` versus `transactional` direction already appears in `02-2l-doctrinal-depth-and-codes/electives-journal-and-summer-strategy`
-- `outlines`, `attack outlines`, `IRACs`, and study deliverables already exist in `00-start-here/04-study-system-and-deliverables.md`
+- `outlines`, `attack outlines`, `IRACs`, and study deliverables already exist in `00-start-here/resources/study-system-and-deliverables.md`
 
 Because of that, the right move is targeted integration, not wholesale reorganization.
 
@@ -64,22 +64,22 @@ Why it matters:
 
 Recommended integration:
 
-- Create a new folder: `00-pre-1l-methods-and-mindset`
+- Create a methods section: `00-start-here/methods`
 - Keep `00-start-here` as the orientation hub
 - Use the new folder for actual methods training rather than general setup
 
 Suggested files:
 
-- `00-pre-1l-methods-and-mindset/README.md`
-- `00-pre-1l-methods-and-mindset/01-how-to-read-a-legal-opinion.md`
-- `00-pre-1l-methods-and-mindset/02-case-briefing-and-rule-synthesis.md`
-- `00-pre-1l-methods-and-mindset/03-how-to-outline-and-build-attack-sheets.md`
-- `00-pre-1l-methods-and-mindset/04-how-to-write-short-irac-analysis.md`
+- `00-start-here/methods/README.md`
+- `00-start-here/methods/01-read-opinions.md`
+- `00-start-here/methods/02-brief-cases-and-synthesize-rules.md`
+- `00-start-here/methods/03-outline-and-build-attack-sheets.md`
+- `00-start-here/methods/04-write-irac-analysis.md`
 
 Good integration targets:
 
 - update `README.md` folder map later
-- update `00-start-here/01-how-to-use-this-plan.md` so true beginners start here before doctrinal study
+- update `00-start-here/quick-start.md` so true beginners start here before doctrinal study
 
 Recommendation:
 
@@ -219,7 +219,7 @@ Recommended integration:
 
 Suggested file:
 
-- `00-start-here/08-supplement-policy-and-pairings.md`
+- `00-start-here/resources/supplement-policy-and-pairings.md`
 
 Suggested pairings section:
 
@@ -253,11 +253,11 @@ Recommended integration:
 
 Suggested file:
 
-- `00-start-here/09-assessment-and-exam-archive-method.md`
+- `00-start-here/assessment/exam-archive-method.md`
 
 Suggested edit targets later:
 
-- `00-start-here/04-study-system-and-deliverables.md`
+- `00-start-here/resources/study-system-and-deliverables.md`
 - `03-3l-practice-synthesis-and-launch/bar-bridge-and-career-launch/README.md`
 
 Recommendation:
@@ -291,7 +291,7 @@ Better approach:
 
 If integrating this feedback in stages, use this order:
 
-1. `00-pre-1l-methods-and-mindset`
+1. `00-start-here/methods`
 2. assessment and exam-archive layer
 3. supplement policy and pairings
 4. stronger `1L` dual-track framing
@@ -303,9 +303,9 @@ If integrating this feedback in stages, use this order:
 
 If you want the cleanest version of this plan with the best payoff-to-effort ratio, implement only these first:
 
-- add `00-pre-1l-methods-and-mindset`
-- add `00-start-here/08-supplement-policy-and-pairings.md`
-- add `00-start-here/09-assessment-and-exam-archive-method.md`
+- add `00-start-here/methods`
+- add `00-start-here/resources/supplement-policy-and-pairings.md`
+- add `00-start-here/assessment/exam-archive-method.md`
 - revise `01-1l-foundation-year/README.md` to state the doctrinal-plus-skills model explicitly
 - add `03-3l-practice-synthesis-and-launch/01-litigation-track.md`
 - add `03-3l-practice-synthesis-and-launch/02-transactional-track.md`

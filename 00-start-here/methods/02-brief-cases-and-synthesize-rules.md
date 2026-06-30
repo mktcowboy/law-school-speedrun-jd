@@ -4,7 +4,7 @@ Briefing forces an opinion into a usable shape. Synthesis combines many briefs i
 
 ## The Brief
 
-Use the [case-brief template](../templates/case-brief-template.md). Keep each field short.
+Use the [case-brief template](../../templates/case-brief-template.md). Keep each field short.
 
 - `citation`
 - `procedural posture`
@@ -55,4 +55,4 @@ Exams love the fact pattern that comes out differently under each.
 
 ## Deliverable
 
-For each subject, keep one growing `rule sheet`: one-line synthesized rules, no case summaries. This sheet becomes the spine of your outline in [03-how-to-outline-and-build-attack-sheets.md](./03-how-to-outline-and-build-attack-sheets.md).
+For each subject, keep one growing `rule sheet`: one-line synthesized rules, no case summaries. This sheet becomes the spine of your outline in [outline and build attack sheets](./03-outline-and-build-attack-sheets.md).

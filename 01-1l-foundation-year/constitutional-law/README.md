@@ -1,5 +1,7 @@
 # Constitutional Law
 
+Back to the [subject index](../../SUBJECTS.md#core-1l-subjects).
+
 ## Why It Belongs In 1L
 
 Constitutional law gives structure to public power and rights analysis. It belongs in the foundation sequence.
@@ -58,7 +60,7 @@ Rights:
 - `Tinker v. Des Moines` and `Brandenburg v. Ohio`
 - `Employment Division v. Smith`
 
-The full per-subject spine, split into structure and rights, lives in [00-start-here/10-landmark-case-canon.md](../../00-start-here/10-landmark-case-canon.md).
+The full per-subject spine, split into structure and rights, lives in [landmark case canon](../../00-start-here/assessment/landmark-case-canon.md).
 
 ## Common Exam Traps
 

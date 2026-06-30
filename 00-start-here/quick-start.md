@@ -9,11 +9,13 @@ The main idea is simple:
 - keep producing written work as you go
 - use the optional speedrun only if you want compression guidance
 
+If you already know the subject you want, jump through the root [subject index](../SUBJECTS.md).
+
 ## Start With Method, Not Doctrine
 
 If you have never read a judicial opinion closely, do not start with `1L` subjects.
 
-Start with the methods bridge in [00-pre-1l-methods-and-mindset](../00-pre-1l-methods-and-mindset/README.md). It teaches how to read an opinion, brief it, synthesize rules, outline, and write short `IRAC` answers. Those skills make every later subject intelligible.
+Start with the methods bridge in [methods bridge](./methods/README.md). It teaches how to read an opinion, brief it, synthesize rules, outline, and write short `IRAC` answers. Those skills make every later subject intelligible.
 
 ## Default Cadence
 
@@ -74,8 +76,8 @@ Skip these traps early:
 
 ## Order Of Operations
 
-1. Work through the [methods bridge](../00-pre-1l-methods-and-mindset/README.md) once.
-2. Read the year and subject overview.
+1. Work through the [methods bridge](./methods/README.md) once.
+2. Pick a subject from the [subject index](../SUBJECTS.md), or read the year overview if you want the traditional sequence.
 3. Do the primary reading.
 4. Build your own rule map.
 5. Test yourself with a short hypo or issue spotter.
@@ -89,7 +91,7 @@ Add:
 - one oral explanation of each major doctrine as if teaching a classmate
 - one closed-book rewrite of each week's attack outline
 - one mixed-subject essay every time you finish a major subject
-- one timed answer graded against a model, using [09-assessment-and-exam-archive-method.md](./09-assessment-and-exam-archive-method.md)
+- one timed answer graded against a model, using [assessment and exam archive method](./assessment/exam-archive-method.md)
 
 ## Traditional JD Reality Check
 

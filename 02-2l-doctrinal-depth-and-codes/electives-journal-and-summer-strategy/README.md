@@ -1,5 +1,7 @@
 # Electives, Journal, And Summer Strategy
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why This Belongs In 2L
 
 In a traditional JD path, `2L` is not just about doctrine. It is also where choices start to narrow future opportunities.

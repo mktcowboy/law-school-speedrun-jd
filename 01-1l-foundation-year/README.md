@@ -10,13 +10,15 @@ This part of the curriculum should feel overwhelmingly like `reading`, not simul
 
 ## Typical 1L Subjects
 
-- civil procedure
-- torts
-- contracts
-- property
-- criminal law
-- constitutional law
-- legal research and writing
+- [civil procedure](./civil-procedure/README.md)
+- [torts](./torts/README.md)
+- [contracts](./contracts/README.md)
+- [property](./property/README.md)
+- [criminal law](./criminal-law/README.md)
+- [constitutional law](./constitutional-law/README.md)
+- [legal research and writing](./legal-research-and-writing/README.md)
+
+For a one-subject jump table with first goals and cross-links, use the root [subject index](../SUBJECTS.md#core-1l-subjects).
 
 ## Recommended Study Order
 
@@ -84,6 +86,8 @@ By the end of this section, you want:
 ## Detailed Reading Guide
 
 Use [01-reading-sequence-and-free-sources.md](./01-reading-sequence-and-free-sources.md) as the main roadmap for what to read in each `1L` subject and which free sources to start with.
+
+If you are choosing one subject at a time, pair this reading guide with the [subject index](../SUBJECTS.md).
 
 ## Optional Compression Note
 

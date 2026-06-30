@@ -52,8 +52,8 @@ A subject is not "done" until you have:
 - a `1 to 2 page` attack outline
 - a list of rules you still cannot recall cold
 
-This matches the minimum standard in [00-start-here/01-how-to-use-this-plan.md](../00-start-here/01-how-to-use-this-plan.md).
+This matches the minimum standard in [quick start](../quick-start.md).
 
 ## Next
 
-Use the attack outline to actually answer questions in [04-how-to-write-short-irac-analysis.md](./04-how-to-write-short-irac-analysis.md).
+Use the attack outline to actually answer questions in [write short IRAC analysis](./04-write-irac-analysis.md).

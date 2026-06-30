@@ -41,7 +41,7 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 - use the legal-history guide when constitutional materials need historical context
 - use `CopyrightX` as a full intellectual-property elective if you go that direction in `2L/3L`
 - use `Justice` (Sandel) as a free moral- and political-philosophy companion for `criminal law`, jurisprudence, and constitutional-rights reasoning
-- if you can access it, treat Harvard's `Zero-L` pre-orientation course as a model for the methods bridge in [00-pre-1l-methods-and-mindset](../00-pre-1l-methods-and-mindset/README.md)
+- if you can access it, treat Harvard's `Zero-L` pre-orientation course as a model for the methods bridge in [methods bridge](../methods/README.md)
 
 ## Yale
 
@@ -195,7 +195,7 @@ Use the main year guides first. Use this directory when you want to deepen a sub
 
 ## Essential Free Backbone Beyond The Top-10 Band
 
-These are nonprofit and public-service standards that no top-10 school replicates. Under the sourcing rule, the top-10 band governs `teaching materials`; for `primary law`, `reference`, and `practice tools`, use the best-in-class free host regardless of rank. See [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md).
+These are nonprofit and public-service standards that no top-10 school replicates. Under the sourcing rule, the top-10 band governs `teaching materials`; for `primary law`, `reference`, and `practice tools`, use the best-in-class free host regardless of rank. See [source priority rule](./source-priority-rule.md).
 
 ### Cornell Legal Information Institute (LII)
 

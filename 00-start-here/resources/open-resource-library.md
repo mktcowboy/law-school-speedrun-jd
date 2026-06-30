@@ -6,8 +6,8 @@ This library is `T10/Ivy-first`, `primary-law-first`, and `reading-first`.
 
 For school-produced materials, this curriculum prioritizes public `T10/Ivy` law-school resources first. The goal is not just to collect free links. It is to build a study stack around clear public teaching, research, writing, and doctrinal guidance. Official law sources remain the default whenever the subject turns into actual constitutional text, statutes, regulations, or court rules.
 
-See [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md) for the sourcing rule.
-See [06-ivy-t10-school-resource-directory.md](./06-ivy-t10-school-resource-directory.md) for the deeper school-by-school map.
+See [source priority rule](./source-priority-rule.md) for the sourcing rule.
+See [Ivy/T10 resource directory](./ivy-t10-resource-directory.md) for the deeper school-by-school map.
 
 ## School-Produced Source Priority
 
@@ -91,7 +91,7 @@ Use this when you need a substantial free casebook after orienting yourself with
 
 ## Second-Source Map (eLangdell And Primary-Law)
 
-To avoid depending on `H2O` alone, each subject has a second source from an independent host. `CALI eLangdell Press` is the sanctioned second open-casebook platform; where it has no title, the second source is the primary-law spine. See the rule in [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md). All `eLangdell` titles are free PDF/ePub downloads.
+To avoid depending on `H2O` alone, each subject has a second source from an independent host. `CALI eLangdell Press` is the sanctioned second open-casebook platform; where it has no title, the second source is the primary-law spine. See the rule in [source priority rule](./source-priority-rule.md). All `eLangdell` titles are free PDF/ePub downloads.
 
 ### 1L
 
@@ -132,7 +132,7 @@ These are full courses and lecture series produced by `T10/Ivy` faculty and rele
 
 ## Open Primary-Law And Reference Backbone
 
-Nonprofit and public-service standards for reading the law itself and checking doctrine fast. These sit outside the top-10 teaching-materials rule by design; for primary law and tools, the best free host wins regardless of school rank. See [05-top-10-school-priority-basis.md](./05-top-10-school-priority-basis.md).
+Nonprofit and public-service standards for reading the law itself and checking doctrine fast. These sit outside the top-10 teaching-materials rule by design; for primary law and tools, the best free host wins regardless of school rank. See [source priority rule](./source-priority-rule.md).
 
 - Cornell LII home: <https://www.law.cornell.edu/>
 - Cornell LII Wex legal dictionary and encyclopedia: <https://www.law.cornell.edu/wex>
@@ -325,7 +325,7 @@ Tested on the `legacy MEE` but dropped from `NextGen` foundational coverage. Bui
 
 ## Assessment And Practice
 
-Use these to build the timed-writing feedback loop described in [09-assessment-and-exam-archive-method.md](./09-assessment-and-exam-archive-method.md).
+Use these to build the timed-writing feedback loop described in [assessment and exam archive method](../assessment/exam-archive-method.md).
 
 - NCBE NextGen sample questions: <https://www.ncbex.org/exams/nextgen/sample-questions>
 - CALI lessons for guided, auto-scored practice by subject: <https://www.cali.org/>

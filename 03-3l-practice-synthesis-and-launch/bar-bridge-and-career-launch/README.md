@@ -1,5 +1,7 @@
 # Bar Bridge And Career Launch
 
+Back to the [subject index](../../SUBJECTS.md#3l-practice-and-launch).
+
 ## Why It Belongs In 3L
 
 This is the point where doctrinal study should convert into exam-format and work-readiness planning.

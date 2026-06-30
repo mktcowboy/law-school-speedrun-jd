@@ -17,7 +17,7 @@ Every 7th day reviews and builds; the final 6 bridge into bar prep.
 
 ## Sourcing
 
-Per the repo's own rule (`00-start-here/05-top-10-school-priority-basis.md`):
+Per the repo's own rule (`00-start-here/resources/source-priority-rule.md`):
 
 - **Teaching → T10/Ivy, Ivy-first.** Harvard H2O casebooks plus Yale, Columbia,
   and Penn guides (Duke and Stanford only where the Ivies lack a strong public

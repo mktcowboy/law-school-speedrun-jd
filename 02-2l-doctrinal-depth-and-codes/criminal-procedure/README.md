@@ -1,5 +1,7 @@
 # Criminal Procedure
 
+Back to the [subject index](../../SUBJECTS.md#core-2l-subjects).
+
 ## Why It Belongs In 2L
 
 Criminal procedure assumes you already understand criminal liability and can now shift to constitutional limits on state investigation and prosecution.

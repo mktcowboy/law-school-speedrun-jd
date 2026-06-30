@@ -66,7 +66,7 @@ The fix is a diversity rule layered on top of the priority rule:
 - the sanctioned second open-casebook platform is `CALI eLangdell Press`. It is a nonprofit consortium, not a top-10 school, but it is the only free, peer-quality open-casebook publisher that is genuinely independent of `H2O` — the same backbone exception already applies to `CALI`, `LII`, and `Oyez`
 - where `eLangdell` has no casebook for a subject (it lacks business associations, administrative law, professional responsibility, family law, and conflict of laws), the second source is the `primary-law spine` — the operative code, rules, or Restatement read alongside a non-Harvard research guide
 
-Each subject guide names its alternate under `Start Here`. The consolidated, verified map lives in [03-open-resource-library.md](./03-open-resource-library.md).
+Each subject guide names its alternate under `Start Here`. The consolidated, verified map lives in [open resource library](./open-resource-library.md).
 
 ## Public Ranking References
 

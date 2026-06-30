@@ -1,5 +1,7 @@
 # Litigation Track
 
+Back to the [subject index](../SUBJECTS.md#3l-practice-and-launch).
+
 One of two `3L` practice directions. Pick the track that matches the work you want; you can read both, but build deliverables in one. Pair this with the practice systems in this section.
 
 ## Who This Is For

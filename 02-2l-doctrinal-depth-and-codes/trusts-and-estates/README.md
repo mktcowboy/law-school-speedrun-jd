@@ -1,5 +1,7 @@
 # Trusts And Estates
 
+Back to the [subject index](../../SUBJECTS.md#legacy-mee-and-upper-level-subjects).
+
 ## Why It Is Here
 
 Wills, trusts, and estates is a `legacy MEE` bar subject — often two MEE topics, `Decedents' Estates` and `Trusts and Future Interests` — that the `NextGen UBE` drops from foundational testing. It sits outside the `NextGen` core; build it for a legacy or transition jurisdiction, or for estate-planning practice. Confirm your jurisdiction first.
