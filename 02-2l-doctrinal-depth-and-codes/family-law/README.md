@@ -32,13 +32,15 @@ Teaching from the `T10/Ivy` band; primary law from the best free host.
 
 ## Landmark Cases
 
+For the full linked list, see the [family law canon](../../00-start-here/assessment/landmark-case-canon.md#family-law).
+
 These overlap the constitutional-rights canon; see [landmark case canon](../../00-start-here/assessment/landmark-case-canon.md).
 
-- `Loving v. Virginia` — the right to marry
-- `Obergefell v. Hodges` — same-sex marriage
-- `Stanley v. Illinois` — unwed-father parental rights and due process
-- `Troxel v. Granville` — parental authority over third-party visitation
-- `Michael H. v. Gerald D.` — competing presumptions of paternity
+- [`Loving v. Virginia`](https://www.courtlistener.com/?q=%22Loving+v.+Virginia%22&type=o&order_by=score+desc) — the right to marry
+- [`Obergefell v. Hodges`](https://www.courtlistener.com/?q=%22Obergefell+v.+Hodges%22&type=o&order_by=score+desc) — same-sex marriage
+- [`Stanley v. Illinois`](https://www.courtlistener.com/?q=%22Stanley+v.+Illinois%22&type=o&order_by=score+desc) — unwed-father parental rights and due process
+- [`Troxel v. Granville`](https://www.courtlistener.com/?q=%22Troxel+v.+Granville%22&type=o&order_by=score+desc) — parental authority over third-party visitation
+- [`Michael H. v. Gerald D.`](https://www.courtlistener.com/?q=%22Michael+H.+v.+Gerald+D.%22&type=o&order_by=score+desc) — competing presumptions of paternity
 
 ## Common Exam Traps
 

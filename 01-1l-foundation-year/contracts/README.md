@@ -25,15 +25,17 @@ Contracts teaches enforceable exchange. It is where you learn offer, assent, con
 
 ## Landmark Cases
 
-- `Hamer v. Sidway`
-- `Lucy v. Zehmer`
-- `Hawkins v. McGee`
+For the full linked list, see the [contracts canon](../../00-start-here/assessment/landmark-case-canon.md#contracts).
+
+- [`Hamer v. Sidway`](https://www.courtlistener.com/?q=%22Hamer+v.+Sidway%22&type=o&order_by=score+desc)
+- [`Lucy v. Zehmer`](https://www.courtlistener.com/?q=%22Lucy+v.+Zehmer%22&type=o&order_by=score+desc)
+- [`Hawkins v. McGee`](https://www.courtlistener.com/?q=%22Hawkins+v.+McGee%22&type=o&order_by=score+desc)
 
 ## Common Exam Traps
 
 - decide `common law` versus `UCC Article 2` (goods) before applying any rule
 - consideration is bargained-for exchange; past consideration and moral obligation are not enough
-- do not jump to expectation damages without checking foreseeability (`Hadley`), certainty, and mitigation
+- do not jump to expectation damages without checking foreseeability ([`Hadley`](https://www.courtlistener.com/?q=%22Hadley+v.+Baxendale%22&type=o&order_by=score+desc)), certainty, and mitigation
 - treat the statute of frauds and the parol evidence rule as doctrines with exceptions, not automatic bars
 
 ## Best Supplement If You Need One

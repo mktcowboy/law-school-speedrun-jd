@@ -20,8 +20,8 @@ Build the structure half first; rights doctrine assumes you already know judicia
 ### Structure (Con Law I)
 
 - judicial review as background architecture
-- federalism and the Commerce Clause, from `Gibbons` through `Lopez`
-- separation of powers and the `Youngstown` framework
+- federalism and the Commerce Clause, from [`Gibbons`](https://www.courtlistener.com/?q=%22Gibbons+v.+Ogden%22&type=o&order_by=score+desc) through [`Lopez`](https://www.courtlistener.com/?q=%22United+States+v.+Lopez%22&type=o&order_by=score+desc)
+- separation of powers and the [`Youngstown`](https://www.courtlistener.com/?q=%22Youngstown+Sheet+%26+Tube+v.+Sawyer%22&type=o&order_by=score+desc) framework
 - the anti-commandeering principle
 - state action
 
@@ -45,20 +45,22 @@ Build the structure half first; rights doctrine assumes you already know judicia
 
 ## Landmark Cases
 
+For the full linked list, see the [constitutional law canon](../../00-start-here/assessment/landmark-case-canon.md#constitutional-law-i-structure).
+
 Structure:
 
-- `Marbury v. Madison`
-- `McCulloch v. Maryland`
-- `United States v. Lopez`
-- `Youngstown Sheet & Tube v. Sawyer`
+- [`Marbury v. Madison`](https://www.courtlistener.com/?q=%22Marbury+v.+Madison%22&type=o&order_by=score+desc)
+- [`McCulloch v. Maryland`](https://www.courtlistener.com/?q=%22McCulloch+v.+Maryland%22&type=o&order_by=score+desc)
+- [`United States v. Lopez`](https://www.courtlistener.com/?q=%22United+States+v.+Lopez%22&type=o&order_by=score+desc)
+- [`Youngstown Sheet & Tube v. Sawyer`](https://www.courtlistener.com/?q=%22Youngstown+Sheet+%26+Tube+v.+Sawyer%22&type=o&order_by=score+desc)
 
 Rights:
 
-- `Brown v. Board of Education`
-- `Loving v. Virginia`
-- `Griswold v. Connecticut` through `Obergefell v. Hodges` and `Dobbs v. Jackson Women's Health Organization`
-- `Tinker v. Des Moines` and `Brandenburg v. Ohio`
-- `Employment Division v. Smith`
+- [`Brown v. Board of Education`](https://www.courtlistener.com/?q=%22Brown+v.+Board+of+Education%22&type=o&order_by=score+desc)
+- [`Loving v. Virginia`](https://www.courtlistener.com/?q=%22Loving+v.+Virginia%22&type=o&order_by=score+desc)
+- [`Griswold v. Connecticut`](https://www.courtlistener.com/?q=%22Griswold+v.+Connecticut%22&type=o&order_by=score+desc) through [`Obergefell v. Hodges`](https://www.courtlistener.com/?q=%22Obergefell+v.+Hodges%22&type=o&order_by=score+desc) and [`Dobbs v. Jackson Women's Health Organization`](https://www.courtlistener.com/?q=%22Dobbs+v.+Jackson+Women%27s+Health+Organization%22&type=o&order_by=score+desc)
+- [`Tinker v. Des Moines`](https://www.courtlistener.com/?q=%22Tinker+v.+Des+Moines%22&type=o&order_by=score+desc) and [`Brandenburg v. Ohio`](https://www.courtlistener.com/?q=%22Brandenburg+v.+Ohio%22&type=o&order_by=score+desc)
+- [`Employment Division v. Smith`](https://www.courtlistener.com/?q=%22Employment+Division+v.+Smith%22&type=o&order_by=score+desc)
 
 The full per-subject spine, split into structure and rights, lives in [landmark case canon](../../00-start-here/assessment/landmark-case-canon.md).
 
@@ -66,10 +68,10 @@ The full per-subject spine, split into structure and rights, lives in [landmark 
 
 - clear the threshold (standing, state action) before reaching the merits
 - pick the correct tier of scrutiny and state who bears the burden at that tier
-- for equal protection, separate disparate impact from the discriminatory intent `Washington v. Davis` requires
+- for equal protection, separate disparate impact from the discriminatory intent [`Washington v. Davis`](https://www.courtlistener.com/?q=%22Washington+v.+Davis%22&type=o&order_by=score+desc) requires
 - keep substantive due process (fundamental rights) distinct from procedural due process (notice and hearing)
 - distinguish facial from as-applied challenges, and content-based from content-neutral speech regulation
-- in religion problems, separate Free Exercise (`Smith`) from Establishment analysis
+- in religion problems, separate Free Exercise ([`Smith`](https://www.courtlistener.com/?q=%22Employment+Division+v.+Smith%22&type=o&order_by=score+desc)) from Establishment analysis
 - do not blur Equal Protection, Due Process, and the Dormant Commerce Clause — each has its own framework
 
 ## Best Supplement If You Need One

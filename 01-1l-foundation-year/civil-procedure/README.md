@@ -26,17 +26,19 @@ Civil procedure teaches how a lawsuit exists at all: where it can be filed, what
 
 ## Landmark Cases
 
-- `International Shoe`
-- `Erie`
-- `Twombly`
-- `Iqbal`
+For the full linked list, see the [civil procedure canon](../../00-start-here/assessment/landmark-case-canon.md#civil-procedure).
+
+- [`International Shoe`](https://www.courtlistener.com/?q=%22International+Shoe+v.+Washington%22&type=o&order_by=score+desc)
+- [`Erie`](https://www.courtlistener.com/?q=%22Erie+R.+Co.+v.+Tompkins%22&type=o&order_by=score+desc)
+- [`Twombly`](https://www.courtlistener.com/?q=%22Bell+Atlantic+v.+Twombly%22&type=o&order_by=score+desc)
+- [`Iqbal`](https://www.courtlistener.com/?q=%22Ashcroft+v.+Iqbal%22&type=o&order_by=score+desc)
 
 ## Common Exam Traps
 
 - analyze personal jurisdiction and subject-matter jurisdiction separately; they are independent requirements
 - diversity must be complete and is measured at filing; the amount in controversy excludes interest and costs
 - on a `12(b)(6)` motion, only the complaint's well-pleaded facts count, taken as true — do not import summary-judgment thinking
-- under `Erie`, when a valid Federal Rule is on point, apply it (`Hanna`) rather than reaching for the outcome-determinative test
+- under [`Erie`](https://www.courtlistener.com/?q=%22Erie+R.+Co.+v.+Tompkins%22&type=o&order_by=score+desc), when a valid Federal Rule is on point, apply it ([`Hanna`](https://www.courtlistener.com/?q=%22Hanna+v.+Plumer%22&type=o&order_by=score+desc)) rather than reaching for the outcome-determinative test
 
 ## Best Supplement If You Need One
 
