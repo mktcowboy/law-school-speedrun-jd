@@ -106,6 +106,78 @@ MANUAL_RESOLUTIONS = {
     "citation" => ["17 So. 2d 427", "31 Ala. App. 334"],
     "court" => "Court of Appeals of Alabama"
   },
+  "Brown v. Board of Education" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/105221/brown-v-board-of-education/",
+    "caseName" => "Brown v. Board of Education",
+    "citation" => ["347 U.S. 483", "74 S. Ct. 686", "98 L. Ed. 873"],
+    "court" => "Supreme Court of the United States"
+  },
+  "New York Times v. Sullivan" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/106761/new-york-times-co-v-sullivan/",
+    "caseName" => "New York Times Co. v. Sullivan",
+    "citation" => ["376 U.S. 254", "84 S. Ct. 710"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Katz v. United States" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/107564/katz-v-united-states/",
+    "caseName" => "Katz v. United States",
+    "citation" => ["389 U.S. 347", "88 S. Ct. 507"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Employment Division v. Smith" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/112404/employment-div-dept-of-human-resources-of-ore-v-smith/",
+    "caseName" => "Employment Div., Dept. of Human Resources of Ore. v. Smith",
+    "citation" => ["494 U.S. 872", "110 S. Ct. 1595"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Miller v. California" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/108838/miller-v-california/",
+    "caseName" => "Miller v. California",
+    "citation" => ["413 U.S. 15", "93 S. Ct. 2607"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Holy Trinity Church v. United States" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/93280/church-of-the-holy-trinity-v-united-states/",
+    "caseName" => "Church of the Holy Trinity v. United States",
+    "citation" => ["143 U.S. 457", "12 S. Ct. 511"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Riley v. California" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/",
+    "caseName" => "Riley v. California",
+    "citation" => ["573 U.S. 373", "134 S. Ct. 2473"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Kennedy v. Bremerton School District" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/6619004/kennedy-v-bremerton-school-dist/",
+    "caseName" => "Kennedy v. Bremerton School District",
+    "citation" => ["597 U.S. 507", "142 S. Ct. 2407"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Washington v. Davis" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/109469/washington-v-davis/",
+    "caseName" => "Washington v. Davis",
+    "citation" => ["426 U.S. 229", "96 S. Ct. 2040"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Ford Motor Co. v. Montana Eighth Judicial District" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/4867543/ford-motor-co-v-montana-eighth-judicial-dist/",
+    "caseName" => "Ford Motor Co. v. Montana Eighth Judicial District",
+    "citation" => ["592 U.S. 351", "141 S. Ct. 1017"],
+    "court" => "Supreme Court of the United States"
+  },
+  "Peevyhouse v. Garland Coal" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/2606767/peevyhouse-v-garland-coal-mining-company/",
+    "caseName" => "Peevyhouse v. Garland Coal & Mining Company",
+    "citation" => ["382 P.2d 109", "1962 OK 267"],
+    "court" => "Supreme Court of Oklahoma"
+  },
+  "Tome v. United States" => {
+    "direct_url" => "https://www.courtlistener.com/opinion/117887/tome-v-united-states/",
+    "caseName" => "Tome v. United States",
+    "citation" => ["513 U.S. 150", "115 S. Ct. 696"],
+    "court" => "Supreme Court of the United States"
+  },
   "People v. Anderson" => {
     "direct_url" => "https://www.courtlistener.com/opinion/1312544/people-v-anderson/",
     "caseName" => "People v. Anderson",
@@ -291,8 +363,7 @@ end
 def candidate_text(result)
   [
     result["caseName"],
-    result["caseNameFull"],
-    Array(result["citation"]).join(" ")
+    result["caseNameFull"]
   ].compact.join(" ")
 end
 
@@ -308,11 +379,33 @@ def acceptable_match?(query_variant, result)
   false
 end
 
+def result_score(result)
+  citation = Array(result["citation"]).join(" ")
+  score = result.fetch("citeCount", 0).to_i * 100
+  score += 10_000 if result["court"] == "Supreme Court of the United States"
+  score += 5_000 if citation.match?(/\b\d+\s+U\.S\./)
+  score += 2_000 if citation.match?(/\b\d+\s+F\.(?:2d|3d|4th| Supp\.)/)
+  score += 1_000 if citation.match?(/\b\d+\s+(?:N\.E\.|N\.W\.|P\.|A\.|So\.|S\.E\.)/)
+  score
+end
+
 def search_api(query)
   params = URI.encode_www_form(q: query, type: "o", order_by: "score desc")
   url = "https://www.courtlistener.com/api/rest/v4/search/?#{params}"
-  out, err, status = Open3.capture3("curl", "-L", "-s", "-A", USER_AGENT, url)
-  raise "curl failed for #{query.inspect}: #{err}" unless status.success?
+  out = nil
+  err = nil
+  status = nil
+
+  4.times do |attempt|
+    out, err, status = Open3.capture3("curl", "-L", "-s", "-A", USER_AGENT, url)
+    break if status.success? && out && !out.empty?
+
+    sleep(1 + attempt)
+  end
+
+  unless status&.success? && out && !out.empty?
+    raise "curl failed for #{query.inspect}: #{err}"
+  end
 
   JSON.parse(out)
 end
@@ -334,27 +427,36 @@ def resolve_query(query)
 
   variants_for(query).each do |variant|
     data = search_api(variant)
-    Array(data["results"]).first(20).each do |result|
-      next unless acceptable_match?(variant, result)
-
-      return {
-        "status" => "resolved",
-        "query" => query,
-        "variant" => variant,
-        "direct_url" => direct_url(result),
-        "caseName" => result["caseName"],
-        "caseNameFull" => result["caseNameFull"],
-        "citation" => result["citation"],
-        "court" => result["court"],
-        "dateFiled" => result["dateFiled"],
-        "score" => result.dig("meta", "score", "bm25")
-      }
+    candidates = Array(data["results"]).first(20).select do |result|
+      acceptable_match?(variant, result)
     end
+    next if candidates.empty?
+
+    result = candidates.max_by { |candidate| result_score(candidate) }
+    return {
+      "status" => "resolved",
+      "query" => query,
+      "variant" => variant,
+      "direct_url" => direct_url(result),
+      "caseName" => result["caseName"],
+      "caseNameFull" => result["caseNameFull"],
+      "citation" => result["citation"],
+      "court" => result["court"],
+      "dateFiled" => result["dateFiled"],
+      "citeCount" => result["citeCount"],
+      "score" => result_score(result)
+    }
   rescue JSON::ParserError => e
     return {
       "status" => "error",
       "query" => query,
       "error" => "JSON parse failed for #{variant.inspect}: #{e.message}"
+    }
+  rescue RuntimeError => e
+    return {
+      "status" => "error",
+      "query" => query,
+      "error" => e.message
     }
   end
 
@@ -389,7 +491,7 @@ def resolve_all
       next
     end
 
-    if cache["queries"][query]&.fetch("status", nil) == "resolved"
+    if ENV["FORCE"] != "1" && cache["queries"][query]&.fetch("status", nil) == "resolved"
       warn "[#{index + 1}/#{queries.size}] cached #{query}"
       next
     end
@@ -445,6 +547,9 @@ mode = ARGV.fetch(0, "resolve")
 case mode
 when "resolve"
   report(resolve_all)
+when "refresh"
+  ENV["FORCE"] = "1"
+  report(resolve_all)
 when "apply"
   puts apply_cache
 when "report"
@@ -467,5 +572,5 @@ when "debug"
     end
   end
 else
-  abort "usage: #{$PROGRAM_NAME} [resolve|apply|report|extract|debug QUERY]"
+  abort "usage: #{$PROGRAM_NAME} [resolve|refresh|apply|report|extract|debug QUERY]"
 end

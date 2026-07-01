@@ -27,10 +27,10 @@ Torts is the cleanest entry into common-law reasoning. It teaches how courts rea
 
 For the full linked list, see the [torts canon](../../00-start-here/assessment/landmark-case-canon.md#torts).
 
-- [`Vosburg v. Putney`](https://www.courtlistener.com/?q=%22Vosburg+v.+Putney%22&type=o&order_by=score+desc)
-- [`Garratt v. Dailey`](https://www.courtlistener.com/?q=%22Garratt+v.+Dailey%22&type=o&order_by=score+desc)
-- [`Palsgraf`](https://www.courtlistener.com/?q=%22Palsgraf+v.+Long+Island+R.R.%22&type=o&order_by=score+desc)
-- [`United States v. Carroll Towing Co.`](https://www.courtlistener.com/?q=%22United+States+v.+Carroll+Towing%22&type=o&order_by=score+desc)
+- [`Vosburg v. Putney`](https://www.courtlistener.com/opinion/8220335/vosburg-v-putney/)
+- [`Garratt v. Dailey`](https://www.courtlistener.com/opinion/1169600/garratt-v-dailey/)
+- [`Palsgraf`](https://www.courtlistener.com/opinion/3602780/palsgraf-v-long-island-rr-co/)
+- [`United States v. Carroll Towing Co.`](https://www.courtlistener.com/opinion/1565896/united-states-v-carroll-towing-co/)
 
 ## Common Exam Traps
 

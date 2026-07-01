@@ -30,12 +30,12 @@ For the full linked list, see the [administrative law canon](../../00-start-here
 
 - notice-and-comment rulemaking
 - arbitrary and capricious review
-- [`Chevron`](https://www.courtlistener.com/?q=%22Chevron+v.+NRDC%22&type=o&order_by=score+desc) as historical background
-- [`Skidmore`](https://www.courtlistener.com/?q=%22Skidmore+v.+Swift%22&type=o&order_by=score+desc)
+- [`Chevron`](https://www.courtlistener.com/opinion/111221/chevron-u-s-a-inc-v-natural-resources-defense-council-inc/) as historical background
+- [`Skidmore`](https://www.courtlistener.com/opinion/104034/skidmore-v-swift-co/)
 
 ## Common Exam Traps
 
-- do not cite [`Chevron`](https://www.courtlistener.com/?q=%22Chevron+v.+NRDC%22&type=o&order_by=score+desc) as good law — after [`Loper Bright`](https://www.courtlistener.com/?q=%22Loper+Bright+Enterprises+v.+Raimondo%22&type=o&order_by=score+desc) (2024), courts review statutory questions de novo, giving agency views [`Skidmore`](https://www.courtlistener.com/?q=%22Skidmore+v.+Swift%22&type=o&order_by=score+desc) weight where persuasive
+- do not cite [`Chevron`](https://www.courtlistener.com/opinion/111221/chevron-u-s-a-inc-v-natural-resources-defense-council-inc/) as good law — after [`Loper Bright`](https://www.courtlistener.com/opinion/10600041/loper-bright-enterprises-v-raimondo/) (2024), courts review statutory questions de novo, giving agency views [`Skidmore`](https://www.courtlistener.com/opinion/104034/skidmore-v-swift-co/) weight where persuasive
 - distinguish legislative rules (notice-and-comment) from interpretive rules and guidance
 - match the standard of review to the action: arbitrary-and-capricious, substantial evidence, or de novo
 - clear standing, ripeness, finality, and exhaustion before reaching reviewability

@@ -26,9 +26,9 @@ Criminal law gives you the basic architecture of liability in the public-law con
 
 For the full linked list, see the [criminal law canon](../../00-start-here/assessment/landmark-case-canon.md#criminal-law).
 
-- [`Martin v. State`](https://www.courtlistener.com/?q=%22Martin+v.+State%22&type=o&order_by=score+desc)
-- [`Regina v. Cunningham`](https://www.courtlistener.com/?q=%22Regina+v.+Cunningham%22&type=o&order_by=score+desc)
-- [`People v. Conley`](https://www.courtlistener.com/?q=%22People+v.+Conley%22&type=o&order_by=score+desc)
+- [`Martin v. State`](https://www.courtlistener.com/opinion/3233100/martin-v-state/)
+- [`Regina v. Cunningham`](https://en.wikipedia.org/wiki/R_v_Cunningham)
+- [`People v. Conley`](https://www.courtlistener.com/opinion/2097961/people-v-conley/)
 
 ## Common Exam Traps
 
