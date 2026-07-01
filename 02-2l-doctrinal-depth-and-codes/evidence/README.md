@@ -33,17 +33,17 @@ Read especially:
 
 For the full linked list, see the [evidence canon](../../00-start-here/assessment/landmark-case-canon.md#evidence).
 
-- [`Old Chief v. United States`](https://www.courtlistener.com/?q=%22Old+Chief+v.+United+States%22&type=o&order_by=score+desc)
-- [`Crawford v. Washington`](https://www.courtlistener.com/?q=%22Crawford+v.+Washington%22&type=o&order_by=score+desc)
-- [`Daubert v. Merrell Dow`](https://www.courtlistener.com/?q=%22Daubert+v.+Merrell+Dow%22&type=o&order_by=score+desc)
-- [`Tome v. United States`](https://www.courtlistener.com/?q=%22Tome+v.+United+States%22&type=o&order_by=score+desc)
+- [`Old Chief v. United States`](https://www.courtlistener.com/opinion/118074/old-chief-v-united-states/)
+- [`Crawford v. Washington`](https://www.courtlistener.com/opinion/134724/crawford-v-washington/)
+- [`Daubert v. Merrell Dow`](https://www.courtlistener.com/opinion/112903/daubert-v-merrell-dow-pharmaceuticals-inc/)
+- [`Tome v. United States`](https://www.courtlistener.com/opinion/117887/tome-v-united-states/)
 
 ## Common Exam Traps
 
 - run the `403` balance even after evidence clears relevance
 - before calling a statement hearsay, ask whether it is offered for its truth and whether `801(d)` makes it non-hearsay
 - keep impeachment (credibility) separate from substantive use, and match each character-evidence route to its rule
-- in criminal cases, overlay the Confrontation Clause ([`Crawford`](https://www.courtlistener.com/?q=%22Crawford+v.+Washington%22&type=o&order_by=score+desc)) on testimonial hearsay
+- in criminal cases, overlay the Confrontation Clause ([`Crawford`](https://www.courtlistener.com/opinion/134724/crawford-v-washington/)) on testimonial hearsay
 
 ## Best Supplement If You Need One
 

@@ -4,7 +4,7 @@ Last updated: 2026-06-30
 
 ## Goal
 
-Replace all CourtListener search links for landmark cases with direct CourtListener opinion links.
+Replace all CourtListener search links for landmark cases with direct case links.
 
 The current search-link pattern is:
 
@@ -12,17 +12,17 @@ The current search-link pattern is:
 https://www.courtlistener.com/?q=...&type=o&order_by=score+desc
 ```
 
-The target pattern is:
+The preferred target pattern is:
 
 ```text
 https://www.courtlistener.com/opinion/<id>/<slug>/
 ```
 
-Do not replace a search link with the first CourtListener search result unless the result is verified as the actual case. Some search results point to citing cases or unrelated opinions.
+Do not replace a search link with the first CourtListener search result unless the result is verified as the actual case. Some search results point to citing cases, cert denials, or unrelated opinions.
 
 ## Current State
 
-The direct-link rewrite has not been safely applied yet. As of this note, the repo still has 210 CourtListener search-link occurrences across 14 Markdown files.
+The direct-link rewrite has been applied to the 14 subject/case Markdown files listed below. The original state had 210 CourtListener search-link occurrences across these files.
 
 File counts:
 
@@ -43,7 +43,7 @@ File counts:
 | 5 | `02-2l-doctrinal-depth-and-codes/family-law/README.md` |
 | 8 | `02-2l-doctrinal-depth-and-codes/legislation-and-regulation/README.md` |
 
-There are 127 unique decoded case queries behind those 210 occurrences.
+There were 127 unique decoded case queries behind those 210 occurrences. The resolver cache ended with 127 resolved mappings and 0 unresolved mappings.
 
 ## Work Already Done
 
@@ -52,7 +52,7 @@ Two parallel agents audited the problem:
 - Franklin found all CourtListener search-link occurrences and confirmed they are concentrated in the 14 files listed above.
 - Pauli identified risky case queries where taking the first CourtListener API result is likely unsafe.
 
-The landmark canon intro currently says links point to CourtListener opinion searches. Update that language after direct links are in place.
+The landmark canon intro was updated so it no longer describes the links as CourtListener opinion searches.
 
 Subject guide gotchas Franklin flagged:
 
@@ -67,7 +67,7 @@ Subject guide gotchas Franklin flagged:
 
 ## Risky Queries
 
-These should be manually verified or handled with stronger matching before replacement:
+These were manually verified or handled with stronger matching before replacement:
 
 - `Martin v. State`
 - `People v. Anderson`
@@ -91,7 +91,7 @@ These should be manually verified or handled with stronger matching before repla
 - `Regina v. Cunningham`
 - `Regina v. Dudley and Stephens`
 
-Older English cases and broad state-law names are especially risky. If CourtListener does not have the original opinion, leave a TODO or use a better direct free source rather than linking to an unrelated citing opinion.
+Older English cases and broad state-law names were especially risky. Where CourtListener did not host the original opinion, the rewrite uses a direct external case page rather than linking to an unrelated citing opinion.
 
 ## Resolver Notes
 
@@ -114,27 +114,25 @@ Known bad attempt:
 
 - A naive first-result resolver mis-resolved `Bell Atlantic v. Twombly` to `Lane v. Page`.
 
-Partial cache:
+Resolver outcome:
 
-- `/tmp/courtlistener-strict-map.json` exists from an interrupted strict resolver attempt.
-- It had 12 entries when checked.
-- It already contains a bad `Byrne v. Boadle` match to an unrelated citing case, so do not trust this cache wholesale.
-- `/tmp/courtlistener-direct-map.json` was deleted because it came from the naive resolver.
-- `/tmp/courtlistener-strict-failed.json` did not exist because the strict resolver was interrupted before final failure output.
+- `00-start-here/maintenance/tools/courtlistener_direct_link_resolver.rb` now contains the repeatable resolver and manual canonical overrides.
+- The resolver cache at `/tmp/courtlistener-direct-link-cache.json` ended with 127 resolved mappings and 0 unresolved mappings.
+- The bad naive cache `/tmp/courtlistener-direct-map.json` was deleted earlier because it came from an unsafe first-result resolver.
+- The old partial cache `/tmp/courtlistener-strict-map.json` should not be trusted.
 
-## Recommended Next Pass
+## Rewrite Checklist Used
 
 1. Extract every `https://www.courtlistener.com/?q=...` URL from Markdown files.
 2. Decode the query and strip surrounding quote characters.
 3. Generate query variants for abbreviated names and official reporter names.
 4. Query the CourtListener search API with `curl -L -s -A 'Mozilla/5.0'`.
 5. Accept a result only when `caseName` or `caseNameFull` actually matches the target case.
-6. Reject citing cases, law-review references, and loose keyword hits.
+6. Reject citing cases, cert denials, law-review references, and loose keyword hits.
 7. For risky or old non-US cases, use a manual mapping or a different free direct source if CourtListener does not host the original opinion.
 8. Rewrite only accepted mappings.
-9. Leave unresolved cases as TODOs rather than creating wrong direct links.
-10. Update the landmark canon intro so it no longer says the links are search links.
-11. Verify no search links remain unless they are intentional TODOs.
+9. Update the landmark canon intro so it no longer says the links are search links.
+10. Verify no subject/case pages retain CourtListener search links.
 
 ## Verification Commands
 
@@ -153,8 +151,8 @@ ruby -r uri -e 'counts=Hash.new(0); Dir.glob("**/*.md").each { |f| File.read(f).
 After rewrite, useful checks:
 
 ```bash
-rg 'https://www\.courtlistener\.com/\?q='
-rg -P 'https://www\.courtlistener\.com/(?!opinion/)' -g '*.md'
+rg 'https://www\.courtlistener\.com/\?q=' -g '*.md' -g '!00-start-here/maintenance/courtlistener-direct-linking-notes.md'
+rg -P 'https://www\.courtlistener\.com/(?!opinion/)' -g '*.md' -g '!00-start-here/maintenance/courtlistener-direct-linking-notes.md'
 ```
 
 Run the repo's local Markdown link checks after any rewrite if those scripts are still present.

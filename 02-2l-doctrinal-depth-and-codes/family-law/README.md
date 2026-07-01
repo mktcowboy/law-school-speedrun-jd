@@ -36,11 +36,11 @@ For the full linked list, see the [family law canon](../../00-start-here/assessm
 
 These overlap the constitutional-rights canon; see [landmark case canon](../../00-start-here/assessment/landmark-case-canon.md).
 
-- [`Loving v. Virginia`](https://www.courtlistener.com/?q=%22Loving+v.+Virginia%22&type=o&order_by=score+desc) — the right to marry
-- [`Obergefell v. Hodges`](https://www.courtlistener.com/?q=%22Obergefell+v.+Hodges%22&type=o&order_by=score+desc) — same-sex marriage
-- [`Stanley v. Illinois`](https://www.courtlistener.com/?q=%22Stanley+v.+Illinois%22&type=o&order_by=score+desc) — unwed-father parental rights and due process
-- [`Troxel v. Granville`](https://www.courtlistener.com/?q=%22Troxel+v.+Granville%22&type=o&order_by=score+desc) — parental authority over third-party visitation
-- [`Michael H. v. Gerald D.`](https://www.courtlistener.com/?q=%22Michael+H.+v.+Gerald+D.%22&type=o&order_by=score+desc) — competing presumptions of paternity
+- [`Loving v. Virginia`](https://www.courtlistener.com/opinion/107480/loving-v-virginia/) — the right to marry
+- [`Obergefell v. Hodges`](https://www.courtlistener.com/opinion/2812209/obergefell-v-hodges/) — same-sex marriage
+- [`Stanley v. Illinois`](https://www.courtlistener.com/opinion/108497/stanley-v-illinois/) — unwed-father parental rights and due process
+- [`Troxel v. Granville`](https://www.courtlistener.com/opinion/1087668/troxel-v-granville/) — parental authority over third-party visitation
+- [`Michael H. v. Gerald D.`](https://www.courtlistener.com/opinion/112295/michael-h-v-gerald-d/) — competing presumptions of paternity
 
 ## Common Exam Traps
 

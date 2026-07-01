@@ -20,8 +20,8 @@ Build the structure half first; rights doctrine assumes you already know judicia
 ### Structure (Con Law I)
 
 - judicial review as background architecture
-- federalism and the Commerce Clause, from [`Gibbons`](https://www.courtlistener.com/?q=%22Gibbons+v.+Ogden%22&type=o&order_by=score+desc) through [`Lopez`](https://www.courtlistener.com/?q=%22United+States+v.+Lopez%22&type=o&order_by=score+desc)
-- separation of powers and the [`Youngstown`](https://www.courtlistener.com/?q=%22Youngstown+Sheet+%26+Tube+v.+Sawyer%22&type=o&order_by=score+desc) framework
+- federalism and the Commerce Clause, from [`Gibbons`](https://www.courtlistener.com/opinion/85412/gibbons-v-ogden/) through [`Lopez`](https://www.courtlistener.com/opinion/117927/united-states-v-lopez/)
+- separation of powers and the [`Youngstown`](https://www.courtlistener.com/opinion/105018/youngstown-sheet-tube-co-v-sawyer/) framework
 - the anti-commandeering principle
 - state action
 
@@ -49,18 +49,18 @@ For the full linked list, see the [constitutional law canon](../../00-start-here
 
 Structure:
 
-- [`Marbury v. Madison`](https://www.courtlistener.com/?q=%22Marbury+v.+Madison%22&type=o&order_by=score+desc)
-- [`McCulloch v. Maryland`](https://www.courtlistener.com/?q=%22McCulloch+v.+Maryland%22&type=o&order_by=score+desc)
-- [`United States v. Lopez`](https://www.courtlistener.com/?q=%22United+States+v.+Lopez%22&type=o&order_by=score+desc)
-- [`Youngstown Sheet & Tube v. Sawyer`](https://www.courtlistener.com/?q=%22Youngstown+Sheet+%26+Tube+v.+Sawyer%22&type=o&order_by=score+desc)
+- [`Marbury v. Madison`](https://www.courtlistener.com/opinion/84759/marbury-v-madison/)
+- [`McCulloch v. Maryland`](https://www.courtlistener.com/opinion/1320585/mcculloch-v-maryland/)
+- [`United States v. Lopez`](https://www.courtlistener.com/opinion/117927/united-states-v-lopez/)
+- [`Youngstown Sheet & Tube v. Sawyer`](https://www.courtlistener.com/opinion/105018/youngstown-sheet-tube-co-v-sawyer/)
 
 Rights:
 
-- [`Brown v. Board of Education`](https://www.courtlistener.com/?q=%22Brown+v.+Board+of+Education%22&type=o&order_by=score+desc)
-- [`Loving v. Virginia`](https://www.courtlistener.com/?q=%22Loving+v.+Virginia%22&type=o&order_by=score+desc)
-- [`Griswold v. Connecticut`](https://www.courtlistener.com/?q=%22Griswold+v.+Connecticut%22&type=o&order_by=score+desc) through [`Obergefell v. Hodges`](https://www.courtlistener.com/?q=%22Obergefell+v.+Hodges%22&type=o&order_by=score+desc) and [`Dobbs v. Jackson Women's Health Organization`](https://www.courtlistener.com/?q=%22Dobbs+v.+Jackson+Women%27s+Health+Organization%22&type=o&order_by=score+desc)
-- [`Tinker v. Des Moines`](https://www.courtlistener.com/?q=%22Tinker+v.+Des+Moines%22&type=o&order_by=score+desc) and [`Brandenburg v. Ohio`](https://www.courtlistener.com/?q=%22Brandenburg+v.+Ohio%22&type=o&order_by=score+desc)
-- [`Employment Division v. Smith`](https://www.courtlistener.com/?q=%22Employment+Division+v.+Smith%22&type=o&order_by=score+desc)
+- [`Brown v. Board of Education`](https://www.courtlistener.com/opinion/105221/brown-v-board-of-education/)
+- [`Loving v. Virginia`](https://www.courtlistener.com/opinion/107480/loving-v-virginia/)
+- [`Griswold v. Connecticut`](https://www.courtlistener.com/opinion/107082/griswold-v-connecticut/) through [`Obergefell v. Hodges`](https://www.courtlistener.com/opinion/2812209/obergefell-v-hodges/) and [`Dobbs v. Jackson Women's Health Organization`](https://www.courtlistener.com/opinion/6481357/dobbs-v-jackson-womens-health-organization/)
+- [`Tinker v. Des Moines`](https://www.courtlistener.com/opinion/107841/tinker-v-des-moines-independent-community-school-district/) and [`Brandenburg v. Ohio`](https://www.courtlistener.com/opinion/107965/brandenburg-v-ohio/)
+- [`Employment Division v. Smith`](https://www.courtlistener.com/opinion/112404/employment-div-dept-of-human-resources-of-ore-v-smith/)
 
 The full per-subject spine, split into structure and rights, lives in [landmark case canon](../../00-start-here/assessment/landmark-case-canon.md).
 
@@ -68,10 +68,10 @@ The full per-subject spine, split into structure and rights, lives in [landmark 
 
 - clear the threshold (standing, state action) before reaching the merits
 - pick the correct tier of scrutiny and state who bears the burden at that tier
-- for equal protection, separate disparate impact from the discriminatory intent [`Washington v. Davis`](https://www.courtlistener.com/?q=%22Washington+v.+Davis%22&type=o&order_by=score+desc) requires
+- for equal protection, separate disparate impact from the discriminatory intent [`Washington v. Davis`](https://www.courtlistener.com/opinion/109469/washington-v-davis/) requires
 - keep substantive due process (fundamental rights) distinct from procedural due process (notice and hearing)
 - distinguish facial from as-applied challenges, and content-based from content-neutral speech regulation
-- in religion problems, separate Free Exercise ([`Smith`](https://www.courtlistener.com/?q=%22Employment+Division+v.+Smith%22&type=o&order_by=score+desc)) from Establishment analysis
+- in religion problems, separate Free Exercise ([`Smith`](https://www.courtlistener.com/opinion/112404/employment-div-dept-of-human-resources-of-ore-v-smith/)) from Establishment analysis
 - do not blur Equal Protection, Due Process, and the Dormant Commerce Clause — each has its own framework
 
 ## Best Supplement If You Need One

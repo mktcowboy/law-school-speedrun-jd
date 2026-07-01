@@ -24,9 +24,9 @@ Property teaches how law allocates control, exclusion, use, possession, and titl
 
 For the full linked list, see the [property canon](../../00-start-here/assessment/landmark-case-canon.md#property).
 
-- [`Pierson v. Post`](https://www.courtlistener.com/?q=%22Pierson+v.+Post%22&type=o&order_by=score+desc)
-- [`Johnson v. M'Intosh`](https://www.courtlistener.com/?q=%22Johnson+v.+M%27Intosh%22&type=o&order_by=score+desc)
-- [`Jacque v. Steenberg Homes`](https://www.courtlistener.com/?q=%22Jacque+v.+Steenberg+Homes%22&type=o&order_by=score+desc)
+- [`Pierson v. Post`](https://www.courtlistener.com/opinion/5618666/pierson-v-post/)
+- [`Johnson v. M'Intosh`](https://www.courtlistener.com/opinion/85404/johnson-grahams-lessee-v-mcintosh/)
+- [`Jacque v. Steenberg Homes`](https://www.courtlistener.com/opinion/1877286/jacque-v-steenberg-homes-inc/)
 
 ## Common Exam Traps
 
