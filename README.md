@@ -34,6 +34,7 @@ Nearly all of these resources are free and openly accessible. That is a feature 
 - [Ivy/T10 resource directory](./00-start-here/resources/ivy-t10-resource-directory.md)
 - [study system and deliverables](./00-start-here/resources/study-system-and-deliverables.md)
 - [study pathways](./00-start-here/pathways/study-pathways.md)
+- [landmark case dashboard](./00-start-here/assessment/landmark-case-dashboard.md)
 - [landmark case canon](./00-start-here/assessment/landmark-case-canon.md)
 - [supplement policy and pairings](./00-start-here/resources/supplement-policy-and-pairings.md)
 - [assessment and exam archive method](./00-start-here/assessment/exam-archive-method.md)

@@ -19,7 +19,7 @@ For a single-subject pass, use this order:
 2. Read its `Master These First` and `Start Here` sections.
 3. Use the linked reading sequence for source order.
 4. Build the deliverables in the [subject progress checklist](./templates/subject-progress-checklist-template.md).
-5. Check major cases against the [landmark case canon](./00-start-here/assessment/landmark-case-canon.md) when the subject is case-heavy.
+5. Check major cases against the [landmark case dashboard](./00-start-here/assessment/landmark-case-dashboard.md) and [landmark case canon](./00-start-here/assessment/landmark-case-canon.md) when the subject is case-heavy.
 
 ## Core 1L Subjects
 
@@ -93,5 +93,6 @@ Use these when you want doctrine to turn into simulated work product, career dir
 - [Ivy/T10 resource directory](./00-start-here/resources/ivy-t10-resource-directory.md)
 - [Study system and deliverables](./00-start-here/resources/study-system-and-deliverables.md)
 - [Assessment and exam archive method](./00-start-here/assessment/exam-archive-method.md)
+- [Landmark case dashboard](./00-start-here/assessment/landmark-case-dashboard.md)
 - [Landmark case canon](./00-start-here/assessment/landmark-case-canon.md)
 - [Supplement policy and pairings](./00-start-here/resources/supplement-policy-and-pairings.md)

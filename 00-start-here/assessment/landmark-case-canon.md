@@ -2,7 +2,7 @@
 
 A short, high-yield list of the cases that anchor each `1L` and core `2L` subject. These are the opinions `T10/Ivy` casebooks build around and that exams assume you know cold.
 
-This is a `spine`, not a complete reading list. Case links point directly to free-law case pages, usually [CourtListener](https://www.courtlistener.com/) opinion pages; use [Oyez](https://www.oyez.org/) for Supreme Court summaries, audio, and argument materials when helpful. Use this canon to check coverage, not to replace the casebooks.
+This is a `spine`, not a complete reading list. Case links point directly to free-law case pages, usually [CourtListener](https://www.courtlistener.com/) opinion pages; use [Oyez](https://www.oyez.org/) for Supreme Court summaries, audio, and argument materials when helpful. Use this canon to check coverage, not to replace the casebooks. For a faster subject-by-subject jump table, use the [landmark case dashboard](./landmark-case-dashboard.md).
 
 ## How To Use
 

@@ -30,4 +30,5 @@ This folder is the launch dashboard for the curriculum. Use it to choose a route
 - [Source priority rule](./resources/source-priority-rule.md)
 - [Books and supplies](./resources/books-and-supplies.md)
 - [Supplement policy and pairings](./resources/supplement-policy-and-pairings.md)
+- [Landmark case dashboard](./assessment/landmark-case-dashboard.md)
 - [Landmark case canon](./assessment/landmark-case-canon.md)
