@@ -13,6 +13,7 @@ This folder is the launch dashboard for the curriculum. Use it to choose a route
 ## What Lives Here
 
 - [methods](./methods/README.md) - opinion reading, briefing, synthesis, outlining, and short IRAC answers
+- [vocabulary](./vocabulary/README.md) - the glossary of Latin, jargon, and terms of art, with a Wex link on every entry
 - [resources](./resources/open-resource-library.md) - open casebooks, school-produced guides, sourcing rules, books, supplies, and supplements
 - [assessment](./assessment/exam-archive-method.md) - practice questions, self-grading, and the landmark case canon
 - [pathways](./pathways/study-pathways.md) - bar-core, litigation, transactional, and constitutional-law routes
@@ -21,6 +22,7 @@ This folder is the launch dashboard for the curriculum. Use it to choose a route
 ## Most-Used Links
 
 - [Subject index](../SUBJECTS.md)
+- [Vocabulary and legal glossary](./vocabulary/README.md)
 - [Core 1L subjects](../SUBJECTS.md#core-1l-subjects)
 - [Core 2L subjects](../SUBJECTS.md#core-2l-subjects)
 - [Legacy MEE and upper-level subjects](../SUBJECTS.md#legacy-mee-and-upper-level-subjects)

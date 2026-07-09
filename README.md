@@ -30,6 +30,7 @@ Nearly all of these resources are free and openly accessible. That is a feature 
 - [quick start](./00-start-here/quick-start.md)
 - [subject index](./SUBJECTS.md)
 - [methods bridge](./00-start-here/methods/README.md)
+- [vocabulary and legal glossary](./00-start-here/vocabulary/README.md)
 - [open resource library](./00-start-here/resources/open-resource-library.md)
 - [Ivy/T10 resource directory](./00-start-here/resources/ivy-t10-resource-directory.md)
 - [study system and deliverables](./00-start-here/resources/study-system-and-deliverables.md)
