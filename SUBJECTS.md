@@ -89,6 +89,7 @@ Use these when you want doctrine to turn into simulated work product, career dir
 - [Start-here dashboard](./00-start-here/README.md)
 - [Quick start](./00-start-here/quick-start.md)
 - [Methods bridge](./00-start-here/methods/README.md)
+- [Vocabulary and legal glossary](./00-start-here/vocabulary/README.md)
 - [Open resource library](./00-start-here/resources/open-resource-library.md)
 - [Ivy/T10 resource directory](./00-start-here/resources/ivy-t10-resource-directory.md)
 - [Study system and deliverables](./00-start-here/resources/study-system-and-deliverables.md)
